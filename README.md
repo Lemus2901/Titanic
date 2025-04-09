@@ -1,6 +1,6 @@
 # Análisis Predictivo de Supervivencia en el Titanic 🚢
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-predictor.streamlit.app/)
+[![Streamlit App](https://titanic-tsby9nt8wvdhukq4ppnmdz.streamlit.app/#d37c1803)
 
 Este proyecto combina análisis exploratorio de datos (EDA) y machine learning para predecir la supervivencia de pasajeros del Titanic, revelando patrones sociohistóricos clave mediante ciencia de datos.
 
