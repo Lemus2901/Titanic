@@ -1,0 +1,892 @@
+Survived,Pclass,Name,Age,SibSp,Parch,Fare,Sex_male,Embarked_Q,Embarked_S,Fare_log,SibSp_clean,Parch_clean,FamilySize,IsAlone,Title,AgeGroup,FareCategory
+0,3,"Braund, Mr. Owen Harris",22.0,1,0,7.25,True,False,True,2.1102132003465894,1,0,1,0,Mr,Adulto Joven,Baja
+1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38.0,1,0,71.2833,False,False,False,4.2805931204649,1,0,1,0,Mrs,Adulto,Muy Alta
+1,3,"Heikkinen, Miss. Laina",26.0,0,0,7.925,False,False,True,2.188856327665703,0,0,0,1,Miss,Adulto Joven,Media
+1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35.0,1,0,53.1,False,False,True,3.9908341858524357,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Allen, Mr. William Henry",35.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Moran, Mr. James",28.0,0,0,8.4583,True,True,False,2.246892662898172,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"McCarthy, Mr. Timothy J",54.0,0,0,51.8625,True,False,True,3.967694202798607,0,0,0,1,Mr,Adulto,Muy Alta
+0,3,"Palsson, Master. Gosta Leonard",2.0,3,1,21.075,True,False,True,3.0944457464900235,3,1,4,0,Master,Niño,Alta
+1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27.0,0,2,11.1333,False,False,True,2.495953738718064,0,2,2,0,Mrs,Adulto Joven,Media
+1,2,"Nasser, Mrs. Nicholas (Adele Achem)",14.0,1,0,30.0708,False,False,False,3.436268471383741,1,0,1,0,Mrs,Adolescente,Alta
+1,3,"Sandstrom, Miss. Marguerite Rut",4.0,1,1,16.7,False,False,True,2.8735646395797834,1,1,2,0,Miss,Niño,Alta
+1,1,"Bonnell, Miss. Elizabeth",58.0,0,0,26.55,False,False,True,3.3160025355989236,0,0,0,1,Miss,Adulto,Alta
+0,3,"Saundercock, Mr. William Henry",20.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Andersson, Mr. Anders Johan",39.0,1,5,31.275,True,False,True,3.4742929367327062,1,2,6,0,Mr,Adulto,Muy Alta
+0,3,"Vestrom, Miss. Hulda Amanda Adolfina",14.0,0,0,7.8542,False,False,True,2.180891922715322,0,0,0,1,Miss,Adolescente,Baja
+1,2,"Hewlett, Mrs. (Mary D Kingcome) ",55.0,0,0,16.0,False,False,True,2.833213344056216,0,0,0,1,Mrs,Adulto,Alta
+0,3,"Rice, Master. Eugene",2.0,4,1,29.125,True,True,False,3.405355391810819,3,1,5,0,Master,Niño,Alta
+1,2,"Williams, Mr. Charles Eugene",28.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",31.0,1,0,18.0,False,False,True,2.9444389791664403,1,0,1,0,Mrs,Adulto Joven,Alta
+1,3,"Masselmani, Mrs. Fatima",28.0,0,0,7.225,False,False,False,2.1071782966514356,0,0,0,1,Mrs,Adulto Joven,Baja
+0,2,"Fynney, Mr. Joseph J",35.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto Joven,Alta
+1,2,"Beesley, Mr. Lawrence",34.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"McGowan, Miss. Anna ""Annie""",15.0,0,0,8.0292,False,True,False,2.2004637699272855,0,0,0,1,Miss,Adolescente,Media
+1,1,"Sloper, Mr. William Thompson",28.0,0,0,35.5,True,False,True,3.597312260588446,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Palsson, Miss. Torborg Danira",8.0,3,1,21.075,False,False,True,3.0944457464900235,3,1,4,0,Miss,Niño,Alta
+1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38.0,1,5,31.3875,False,False,True,3.4777725458882283,1,2,6,0,Mrs,Adulto,Muy Alta
+0,3,"Emir, Mr. Farred Chehab",28.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Fortune, Mr. Charles Alexander",19.0,3,2,263.0,True,False,True,5.575949103146316,3,2,5,0,Mr,Adulto Joven,Muy Alta
+1,3,"O'Dwyer, Miss. Ellen ""Nellie""",28.0,0,0,7.8792,False,True,False,2.1837114628556327,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Todoroff, Mr. Lalio",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Uruchurtu, Don. Manuel E",40.0,0,0,27.7208,True,False,False,3.357621598945279,0,0,0,1,Don,Adulto,Alta
+1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",28.0,1,0,146.5208,False,False,False,4.993969182787072,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+1,3,"Glynn, Miss. Mary Agatha",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,2,"Wheadon, Mr. Edward H",66.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Mayor,Media
+0,1,"Meyer, Mr. Edgar Joseph",28.0,1,0,82.1708,True,False,False,4.420896324687287,1,0,1,0,Mr,Adulto Joven,Muy Alta
+0,1,"Holverson, Mr. Alexander Oskar",42.0,1,0,52.0,True,False,True,3.970291913552122,1,0,1,0,Mr,Adulto,Muy Alta
+1,3,"Mamee, Mr. Hanna",28.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Cann, Mr. Ernest Charles",21.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Vander Planke, Miss. Augusta Maria",18.0,2,0,18.0,False,False,True,2.9444389791664403,2,0,2,0,Miss,Adolescente,Alta
+1,3,"Nicola-Yarred, Miss. Jamila",14.0,1,0,11.2417,False,False,False,2.5048481563289,1,0,1,0,Miss,Adolescente,Media
+0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40.0,1,0,9.475,False,False,True,2.348991465808201,1,0,1,0,Mrs,Adulto,Media
+0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27.0,1,0,21.0,False,False,True,3.091042453358316,1,0,1,0,Mrs,Adulto Joven,Alta
+0,3,"Kraeff, Mr. Theodor",28.0,0,0,7.8958,True,False,False,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Laroche, Miss. Simonne Marie Anne Andree",3.0,1,2,41.5792,False,False,False,3.7513658711253766,1,2,3,0,Miss,Niño,Muy Alta
+1,3,"Devaney, Miss. Margaret Delia",19.0,0,0,7.8792,False,True,False,2.1837114628556327,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Rogers, Mr. William John",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Lennon, Mr. Denis",28.0,1,0,15.5,True,True,False,2.803360380906535,1,0,1,0,Mr,Adulto Joven,Alta
+1,3,"O'Driscoll, Miss. Bridget",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Samaan, Mr. Youssef",28.0,2,0,21.6792,True,False,False,3.1214482048688246,2,0,2,0,Mr,Adulto Joven,Alta
+0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18.0,1,0,17.8,False,False,True,2.9338568698359038,1,0,1,0,Mrs,Adolescente,Alta
+0,3,"Panula, Master. Juha Niilo",7.0,4,1,39.6875,True,False,True,3.705920919968788,3,1,5,0,Master,Niño,Muy Alta
+0,3,"Nosworthy, Mr. Richard Cater",21.0,0,0,7.8,True,False,True,2.174751721484161,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49.0,1,0,76.7292,False,False,False,4.353230991152628,1,0,1,0,Mrs,Adulto,Muy Alta
+1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto Joven,Alta
+0,1,"Ostby, Mr. Engelhart Cornelius",65.0,0,1,61.9792,True,False,False,4.142804513146981,0,1,1,0,Mr,Adulto Mayor,Muy Alta
+1,1,"Woolner, Mr. Hugh",28.0,0,0,35.5,True,False,True,3.597312260588446,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,2,"Rugg, Miss. Emily",21.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Novel, Mr. Mansouer",28.5,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"West, Miss. Constance Mirium",5.0,1,2,27.75,False,False,True,3.3586377672433594,1,2,3,0,Miss,Niño,Alta
+0,3,"Goodwin, Master. William Frederick",11.0,5,2,46.9,True,False,True,3.8691155044168695,3,2,7,0,Master,Niño,Muy Alta
+0,3,"Sirayanian, Mr. Orsen",22.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Icard, Miss. Amelie",38.0,0,0,80.0,False,False,True,4.394449154672439,0,0,0,1,Miss,Adulto,Muy Alta
+0,1,"Harris, Mr. Henry Birkhardt",45.0,1,0,83.475,True,False,True,4.436455632600354,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Skoog, Master. Harald",4.0,3,2,27.9,True,False,True,3.3638415951183864,3,2,5,0,Master,Niño,Alta
+0,1,"Stewart, Mr. Albert A",28.0,0,0,27.7208,True,False,False,3.357621598945279,0,0,0,1,Mr,Adulto Joven,Alta
+1,3,"Moubarek, Master. Gerios",28.0,1,1,15.2458,True,False,False,2.7878344138303452,1,1,2,0,Master,Adulto Joven,Alta
+1,2,"Nye, Mrs. (Elizabeth Ramell)",29.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Mrs,Adulto Joven,Media
+0,3,"Crease, Mr. Ernest James",19.0,0,0,8.1583,True,False,True,2.2146605719425225,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Andersson, Miss. Erna Alexandra",17.0,4,2,7.925,False,False,True,2.188856327665703,3,2,6,0,Miss,Adolescente,Media
+0,3,"Kink, Mr. Vincenz",26.0,2,0,8.6625,True,False,True,2.2682524139135403,2,0,2,0,Mr,Adulto Joven,Media
+0,2,"Jenkin, Mr. Stephen Curnow",32.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Goodwin, Miss. Lillian Amy",16.0,5,2,46.9,False,False,True,3.8691155044168695,3,2,7,0,Miss,Adolescente,Muy Alta
+0,2,"Hood, Mr. Ambrose Jr",21.0,0,0,73.5,True,False,True,4.310799125385514,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Chronopoulos, Mr. Apostolos",26.0,1,0,14.4542,True,False,False,2.737880811060884,1,0,1,0,Mr,Adulto Joven,Media
+1,3,"Bing, Mr. Lee",32.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Moen, Mr. Sigurd Hansen",25.0,0,0,7.65,True,False,True,2.157559320943788,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Staneff, Mr. Ivan",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Moutal, Mr. Rahamin Haim",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Caldwell, Master. Alden Gates",0.83,0,2,29.0,True,False,True,3.4011973816621555,0,2,2,0,Master,Niño,Alta
+1,3,"Dowdell, Miss. Elizabeth",30.0,0,0,12.475,False,False,True,2.600836116795061,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Waelens, Mr. Achille",22.0,0,0,9.0,True,False,True,2.302585092994046,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Sheerlinck, Mr. Jan Baptist",29.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"McDermott, Miss. Brigdet Delia",28.0,0,0,7.7875,False,True,False,2.1733302571367834,0,0,0,1,Miss,Adulto Joven,Baja
+0,1,"Carrau, Mr. Francisco M",28.0,0,0,47.1,True,False,True,3.8732821771117156,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,2,"Ilett, Miss. Bertha",17.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Miss,Adolescente,Media
+1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33.0,3,0,15.85,False,False,True,2.8243506567983707,3,0,3,0,Mrs,Adulto Joven,Alta
+0,3,"Ford, Mr. William Neal",16.0,1,3,34.375,True,False,True,3.5660053559634015,1,2,4,0,Mr,Adolescente,Muy Alta
+0,3,"Slocovski, Mr. Selman Francis",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Fortune, Miss. Mabel Helen",23.0,3,2,263.0,False,False,True,5.575949103146316,3,2,5,0,Miss,Adulto Joven,Muy Alta
+0,3,"Celotti, Mr. Francesco",24.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Christmann, Mr. Emil",29.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Andreasson, Mr. Paul Edvin",20.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Chaffee, Mr. Herbert Fuller",46.0,1,0,61.175,True,False,True,4.1299529896894684,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Dean, Mr. Bertram Frank",26.0,1,2,20.575,True,False,True,3.0715352369694915,1,2,3,0,Mr,Adulto Joven,Alta
+0,3,"Coxon, Mr. Daniel",59.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto,Baja
+0,3,"Shorney, Mr. Charles Joseph",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Goldschmidt, Mr. George B",71.0,0,0,34.6542,True,False,False,3.57386695198272,0,0,0,1,Mr,Adulto Mayor,Muy Alta
+1,1,"Greenfield, Mr. William Bertram",23.0,0,1,63.3583,True,False,False,4.164465907853638,0,1,1,0,Mr,Adulto Joven,Muy Alta
+1,2,"Doling, Mrs. John T (Ada Julia Bone)",34.0,0,1,23.0,False,False,True,3.1780538303479458,0,1,1,0,Mrs,Adulto Joven,Alta
+0,2,"Kantor, Mr. Sinai",34.0,1,0,26.0,True,False,True,3.295836866004329,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Petranec, Miss. Matilda",28.0,0,0,7.8958,False,False,True,2.1855792552411137,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Petroff, Mr. Pastcho (""Pentcho"")",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"White, Mr. Richard Frasar",21.0,0,1,77.2875,True,False,True,4.360387947851531,0,1,1,0,Mr,Adulto Joven,Muy Alta
+0,3,"Johansson, Mr. Gustaf Joel",33.0,0,0,8.6542,True,False,True,2.267393053825037,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Gustafsson, Mr. Anders Vilhelm",37.0,2,0,7.925,True,False,True,2.188856327665703,2,0,2,0,Mr,Adulto,Media
+0,3,"Mionoff, Mr. Stoytcho",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Salkjelsvik, Miss. Anna Kristine",21.0,0,0,7.65,False,False,True,2.157559320943788,0,0,0,1,Miss,Adulto Joven,Baja
+1,3,"Moss, Mr. Albert Johan",28.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Rekic, Mr. Tido",38.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto,Baja
+1,3,"Moran, Miss. Bertha",28.0,1,0,24.15,False,True,False,3.224857896545748,1,0,1,0,Miss,Adulto Joven,Alta
+0,1,"Porter, Mr. Walter Chamberlain",47.0,0,0,52.0,True,False,True,3.970291913552122,0,0,0,1,Mr,Adulto,Muy Alta
+0,3,"Zabour, Miss. Hileni",14.5,1,0,14.4542,False,False,False,2.737880811060884,1,0,1,0,Miss,Adolescente,Media
+0,3,"Barton, Mr. David John",22.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Jussila, Miss. Katriina",20.0,1,0,9.825,False,False,True,2.3818582738885534,1,0,1,0,Miss,Adulto Joven,Media
+0,3,"Attalah, Miss. Malake",17.0,0,0,14.4583,False,False,False,2.738146075922933,0,0,0,1,Miss,Adolescente,Alta
+0,3,"Pekoniemi, Mr. Edvard",21.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Connors, Mr. Patrick",70.5,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Mayor,Baja
+0,2,"Turpin, Mr. William John Robert",29.0,1,0,21.0,True,False,True,3.091042453358316,1,0,1,0,Mr,Adulto Joven,Alta
+0,1,"Baxter, Mr. Quigg Edmond",24.0,0,1,247.5208,True,False,False,5.515526544247129,0,1,1,0,Mr,Adulto Joven,Muy Alta
+0,3,"Andersson, Miss. Ellis Anna Maria",2.0,4,2,31.275,False,False,True,3.4742929367327062,3,2,6,0,Miss,Niño,Muy Alta
+0,2,"Hickman, Mr. Stanley George",21.0,2,0,73.5,True,False,True,4.310799125385514,2,0,2,0,Mr,Adulto Joven,Muy Alta
+0,3,"Moore, Mr. Leonard Charles",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Nasser, Mr. Nicholas",32.5,1,0,30.0708,True,False,False,3.436268471383741,1,0,1,0,Mr,Adulto Joven,Alta
+1,2,"Webber, Miss. Susan",32.5,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+0,1,"White, Mr. Percival Wayland",54.0,0,1,77.2875,True,False,True,4.360387947851531,0,1,1,0,Mr,Adulto,Muy Alta
+1,3,"Nicola-Yarred, Master. Elias",12.0,1,0,11.2417,True,False,False,2.5048481563289,1,0,1,0,Master,Niño,Media
+0,3,"McMahon, Mr. Martin",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Madsen, Mr. Fridtjof Arne",24.0,0,0,7.1417,True,False,True,2.0969990034181696,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Peter, Miss. Anna",28.0,1,1,22.3583,False,False,False,3.1509523813392697,1,1,2,0,Miss,Adulto Joven,Alta
+0,3,"Ekstrom, Mr. Johan",45.0,0,0,6.975,True,False,True,2.076311648670908,0,0,0,1,Mr,Adulto,Baja
+0,3,"Drazenoic, Mr. Jozef",33.0,0,0,7.8958,True,False,False,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Coelho, Mr. Domingos Fernandeo",20.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",47.0,1,0,14.5,False,False,True,2.740840023925201,1,0,1,0,Mrs,Adulto,Alta
+1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto Joven,Alta
+0,2,"Sobey, Mr. Samuel James Hayden",25.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Richard, Mr. Emile",23.0,0,0,15.0458,True,False,False,2.775447133088262,0,0,0,1,Mr,Adulto Joven,Alta
+1,1,"Newsom, Miss. Helen Monypeny",19.0,0,2,26.2833,False,False,True,3.3062747934011893,0,2,2,0,Miss,Adulto Joven,Alta
+0,1,"Futrelle, Mr. Jacques Heath",37.0,1,0,53.1,True,False,True,3.9908341858524357,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Osen, Mr. Olaf Elon",16.0,0,0,9.2167,True,False,True,2.3240236363515288,0,0,0,1,Mr,Adolescente,Media
+0,1,"Giglio, Mr. Victor",24.0,0,0,79.2,True,False,False,4.384523514872469,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Boulos, Mrs. Joseph (Sultana)",28.0,0,2,15.2458,False,False,False,2.7878344138303452,0,2,2,0,Mrs,Adulto Joven,Alta
+1,3,"Nysten, Miss. Anna Sofia",22.0,0,0,7.75,False,False,True,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24.0,1,0,15.85,False,False,True,2.8243506567983707,1,0,1,0,Mrs,Adulto Joven,Alta
+0,3,"Burke, Mr. Jeremiah",19.0,0,0,6.75,True,True,False,2.0476928433652555,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Andrew, Mr. Edgardo Samuel",18.0,0,0,11.5,True,False,True,2.5257286443082556,0,0,0,1,Mr,Adolescente,Media
+0,2,"Nicholls, Mr. Joseph Charles",19.0,1,1,36.75,True,False,True,3.6309854756950335,1,1,2,0,Mr,Adulto Joven,Muy Alta
+1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",27.0,0,0,7.7958,True,False,True,2.174274334826008,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Ford, Miss. Robina Maggie ""Ruby""",9.0,2,2,34.375,False,False,True,3.5660053559634015,2,2,4,0,Miss,Niño,Muy Alta
+0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",36.5,0,2,26.0,True,False,True,3.295836866004329,0,2,2,0,Mr,Adulto,Alta
+0,2,"Byles, Rev. Thomas Roussel Davids",42.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Rare,Adulto,Media
+0,2,"Bateman, Rev. Robert James",51.0,0,0,12.525,True,False,True,2.6045398247325453,0,0,0,1,Rare,Adulto,Media
+1,1,"Pears, Mrs. Thomas (Edith Wearne)",22.0,1,0,66.6,False,False,True,4.213607983048918,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Meo, Mr. Alfonzo",55.5,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+0,3,"van Billiard, Mr. Austin Blyler",40.5,0,2,14.5,True,False,True,2.740840023925201,0,2,2,0,Mr,Adulto,Alta
+0,3,"Olsen, Mr. Ole Martin",28.0,0,0,7.3125,True,False,True,2.1177604059819726,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Williams, Mr. Charles Duane",51.0,0,1,61.3792,True,False,False,4.133231886474144,0,1,1,0,Mr,Adulto,Muy Alta
+1,3,"Gilnagh, Miss. Katherine ""Katie""",16.0,0,0,7.7333,False,True,False,2.167143305297764,0,0,0,1,Miss,Adolescente,Baja
+0,3,"Corn, Mr. Harry",30.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Smiljanic, Mr. Mile",28.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Sage, Master. Thomas Henry",28.0,8,2,69.55,True,False,True,4.256321678298823,3,2,10,0,Master,Adulto Joven,Muy Alta
+0,3,"Cribb, Mr. John Hatfield",44.0,0,1,16.1,True,False,True,2.8390784635086144,0,1,1,0,Mr,Adulto,Alta
+1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40.0,0,0,15.75,False,False,True,2.8183982582710754,0,0,0,1,Mrs,Adulto,Alta
+0,3,"Bengtsson, Mr. John Viktor",26.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Calic, Mr. Jovo",17.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adolescente,Media
+0,3,"Panula, Master. Eino Viljami",1.0,4,1,39.6875,True,False,True,3.705920919968788,3,1,5,0,Master,Niño,Muy Alta
+1,3,"Goldsmith, Master. Frank John William ""Frankie""",9.0,0,2,20.525,True,False,True,3.0692150503137943,0,2,2,0,Master,Niño,Alta
+1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",28.0,0,1,55.0,False,False,True,4.02535169073515,0,1,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",45.0,1,4,27.9,False,False,True,3.3638415951183864,1,2,5,0,Mrs,Adulto,Alta
+0,1,"Baumann, Mr. John D",28.0,0,0,25.925,True,False,True,3.2930552230424524,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Ling, Mr. Lee",28.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,1,"Van der hoef, Mr. Wyckoff",61.0,0,0,33.5,True,False,True,3.5409593240373143,0,0,0,1,Mr,Adulto Mayor,Muy Alta
+0,3,"Rice, Master. Arthur",4.0,4,1,29.125,True,True,False,3.405355391810819,3,1,5,0,Master,Niño,Alta
+1,3,"Johnson, Miss. Eleanor Ileen",1.0,1,1,11.1333,False,False,True,2.495953738718064,1,1,2,0,Miss,Niño,Media
+0,3,"Sivola, Mr. Antti Wilhelm",21.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Smith, Mr. James Clinch",56.0,0,0,30.6958,True,False,False,3.4561841799918147,0,0,0,1,Mr,Adulto,Alta
+0,3,"Klasen, Mr. Klas Albin",18.0,1,1,7.8542,True,False,True,2.180891922715322,1,1,2,0,Mr,Adolescente,Baja
+0,3,"Lefebre, Master. Henry Forbes",28.0,3,1,25.4667,True,False,True,3.275887339030031,3,1,4,0,Master,Adulto Joven,Alta
+0,1,"Isham, Miss. Ann Elizabeth",50.0,0,0,28.7125,False,False,False,3.391567832686312,0,0,0,1,Miss,Adulto,Alta
+0,2,"Hale, Mr. Reginald",30.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Leonard, Mr. Lionel",36.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto,Baja
+0,3,"Sage, Miss. Constance Gladys",28.0,8,2,69.55,False,False,True,4.256321678298823,3,2,10,0,Miss,Adulto Joven,Muy Alta
+0,2,"Pernot, Mr. Rene",28.0,0,0,15.05,True,False,False,2.775708849576025,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Asplund, Master. Clarence Gustaf Hugo",9.0,4,2,31.3875,True,False,True,3.4777725458882283,3,2,6,0,Master,Niño,Muy Alta
+1,2,"Becker, Master. Richard F",1.0,2,1,39.0,True,False,True,3.6888794541139363,2,1,3,0,Master,Niño,Muy Alta
+1,3,"Kink-Heilmann, Miss. Luise Gretchen",4.0,0,2,22.025,False,False,True,3.1365805821413706,0,2,2,0,Miss,Niño,Alta
+0,1,"Rood, Mr. Hugh Roscoe",28.0,0,0,50.0,True,False,True,3.9318256327243257,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",28.0,1,0,15.5,False,True,False,2.803360380906535,1,0,1,0,Mrs,Adulto Joven,Alta
+1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",45.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto,Alta
+0,3,"Bourke, Mr. John",40.0,1,1,15.5,True,True,False,2.803360380906535,1,1,2,0,Mr,Adulto,Alta
+0,3,"Turcin, Mr. Stjepan",36.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto,Baja
+1,2,"Pinsky, Mrs. (Rosa)",32.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Mrs,Adulto Joven,Media
+0,2,"Carbines, Mr. William",19.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",19.0,1,0,7.8542,False,False,True,2.180891922715322,1,0,1,0,Miss,Adulto Joven,Baja
+1,2,"Navratil, Master. Michel M",3.0,1,1,26.0,True,False,True,3.295836866004329,1,1,2,0,Master,Niño,Alta
+1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",44.0,0,0,27.7208,False,False,False,3.357621598945279,0,0,0,1,Mrs,Adulto,Alta
+1,1,"Lurette, Miss. Elise",58.0,0,0,146.5208,False,False,False,4.993969182787072,0,0,0,1,Miss,Adulto,Muy Alta
+0,3,"Mernagh, Mr. Robert",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Olsen, Mr. Karl Siegwart Andreas",42.0,0,1,8.4042,True,False,True,2.2411563979973974,0,1,1,0,Mr,Adulto,Media
+1,3,"Madigan, Miss. Margaret ""Maggie""",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",24.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Vande Walle, Mr. Nestor Cyriel",28.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Sage, Mr. Frederick",28.0,8,2,69.55,True,False,True,4.256321678298823,3,2,10,0,Mr,Adulto Joven,Muy Alta
+0,3,"Johanson, Mr. Jakob Alfred",34.0,0,0,6.4958,True,False,True,2.0143428636837015,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Youseff, Mr. Gerious",45.5,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto,Baja
+1,3,"Cohen, Mr. Gurshon ""Gus""",18.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adolescente,Media
+0,3,"Strom, Miss. Telma Matilda",2.0,0,1,10.4625,False,False,True,2.4390808375825834,0,1,1,0,Miss,Niño,Media
+0,3,"Backstrom, Mr. Karl Alfred",32.0,1,0,15.85,True,False,True,2.8243506567983707,1,0,1,0,Mr,Adulto Joven,Alta
+1,3,"Albimona, Mr. Nassef Cassem",26.0,0,0,18.7875,True,False,False,2.9850504252071306,0,0,0,1,Mr,Adulto Joven,Alta
+1,3,"Carr, Miss. Helen ""Ellen""",16.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adolescente,Baja
+1,1,"Blank, Mr. Henry",40.0,0,0,31.0,True,False,False,3.4657359027997265,0,0,0,1,Mr,Adulto,Alta
+0,3,"Ali, Mr. Ahmed",24.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Cameron, Miss. Clear Annie",35.0,0,0,21.0,False,False,True,3.091042453358316,0,0,0,1,Miss,Adulto Joven,Alta
+0,3,"Perkin, Mr. John Henry",22.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Givard, Mr. Hans Kristensen",30.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Kiernan, Mr. Philip",28.0,1,0,7.75,True,True,False,2.169053700369523,1,0,1,0,Mr,Adulto Joven,Baja
+1,1,"Newell, Miss. Madeleine",31.0,1,0,113.275,False,False,False,4.738607824217808,1,0,1,0,Miss,Adulto Joven,Muy Alta
+1,3,"Honkanen, Miss. Eliina",27.0,0,0,7.925,False,False,True,2.188856327665703,0,0,0,1,Miss,Adulto Joven,Media
+0,2,"Jacobsohn, Mr. Sidney Samuel",42.0,1,0,27.0,True,False,True,3.332204510175204,1,0,1,0,Mr,Adulto,Alta
+1,1,"Bazzani, Miss. Albina",32.0,0,0,76.2917,False,False,False,4.347586575960343,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,2,"Harris, Mr. Walter",30.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Sunderland, Mr. Victor Francis",16.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adolescente,Media
+0,2,"Bracken, Mr. James H",27.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Green, Mr. George Henry",51.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+0,3,"Nenkoff, Mr. Christo",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Hoyt, Mr. Frederick Maxfield",38.0,1,0,90.0,True,False,True,4.51085950651685,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Berglund, Mr. Karl Ivar Sven",22.0,0,0,9.35,True,False,True,2.336986519711378,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Mellors, Mr. William John",19.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Lovell, Mr. John Hall (""Henry"")",20.5,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Fahlstrom, Mr. Arne Jonas",18.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adolescente,Media
+0,3,"Lefebre, Miss. Mathilde",28.0,3,1,25.4667,False,False,True,3.275887339030031,3,1,4,0,Miss,Adulto Joven,Alta
+1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35.0,1,0,83.475,False,False,True,4.436455632600354,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Larsson, Mr. Bengt Edvin",29.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Sjostedt, Mr. Ernst Adolf",59.0,0,0,13.5,True,False,True,2.6741486494265287,0,0,0,1,Mr,Adulto,Media
+1,3,"Asplund, Miss. Lillian Gertrud",5.0,4,2,31.3875,False,False,True,3.4777725458882283,3,2,6,0,Miss,Niño,Muy Alta
+0,2,"Leyson, Mr. Robert William Norman",24.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Harknett, Miss. Alice Phoebe",28.0,0,0,7.55,False,False,True,2.145931282948669,0,0,0,1,Miss,Adulto Joven,Baja
+0,2,"Hold, Mr. Stephen",44.0,1,0,26.0,True,False,True,3.295836866004329,1,0,1,0,Mr,Adulto,Alta
+1,2,"Collyer, Miss. Marjorie ""Lottie""",8.0,0,2,26.25,False,False,True,3.305053521109253,0,2,2,0,Miss,Niño,Alta
+0,2,"Pengelly, Mr. Frederick William",19.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Hunt, Mr. George Henry",33.0,0,0,12.275,True,False,True,2.5858825671280026,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Zabour, Miss. Thamine",28.0,1,0,14.4542,False,False,False,2.737880811060884,1,0,1,0,Miss,Adulto Joven,Media
+1,3,"Murphy, Miss. Katherine ""Kate""",28.0,1,0,15.5,False,True,False,2.803360380906535,1,0,1,0,Miss,Adulto Joven,Alta
+0,2,"Coleridge, Mr. Reginald Charles",29.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Maenpaa, Mr. Matti Alexanteri",22.0,0,0,7.125,True,False,True,2.094945728215801,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Attalah, Mr. Sleiman",30.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Minahan, Dr. William Edward",44.0,2,0,90.0,True,True,False,4.51085950651685,2,0,2,0,Rare,Adulto,Muy Alta
+0,3,"Lindahl, Miss. Agda Thorilda Viktoria",25.0,0,0,7.775,False,False,True,2.1719067693519296,0,0,0,1,Miss,Adulto Joven,Baja
+1,2,"Hamalainen, Mrs. William (Anna)",24.0,0,2,14.5,False,False,True,2.740840023925201,0,2,2,0,Mrs,Adulto Joven,Alta
+1,1,"Beckwith, Mr. Richard Leonard",37.0,1,1,52.5542,True,False,True,3.9806942251907276,1,1,2,0,Mr,Adulto,Muy Alta
+0,2,"Carter, Rev. Ernest Courtenay",54.0,1,0,26.0,True,False,True,3.295836866004329,1,0,1,0,Rare,Adulto,Alta
+0,3,"Reed, Mr. James George",28.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29.0,1,1,10.4625,False,False,True,2.4390808375825834,1,1,2,0,Mrs,Adulto Joven,Media
+0,1,"Stead, Mr. William Thomas",62.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Mayor,Alta
+0,3,"Lobb, Mr. William Arthur",30.0,1,0,16.1,True,False,True,2.8390784635086144,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41.0,0,2,20.2125,False,False,True,3.0545906305603445,0,2,2,0,Mrs,Adulto,Alta
+1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",29.0,0,2,15.2458,False,False,False,2.7878344138303452,0,2,2,0,Mrs,Adulto Joven,Alta
+1,1,"Thorne, Mrs. Gertrude Maybelle",28.0,0,0,79.2,False,False,False,4.384523514872469,0,0,0,1,Mrs,Adulto Joven,Muy Alta
+1,1,"Cherry, Miss. Gladys",30.0,0,0,86.5,False,False,True,4.471638793363569,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,1,"Ward, Miss. Anna",35.0,0,0,512.3292,False,False,False,6.240917354759096,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,2,"Parrish, Mrs. (Lutie Davis)",50.0,0,1,26.0,False,False,True,3.295836866004329,0,1,1,0,Mrs,Adulto,Alta
+0,3,"Smith, Mr. Thomas",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Asplund, Master. Edvin Rojj Felix",3.0,4,2,31.3875,True,False,True,3.4777725458882283,3,2,6,0,Master,Niño,Muy Alta
+0,1,"Taussig, Mr. Emil",52.0,1,1,79.65,True,False,True,4.390118804571218,1,1,2,0,Mr,Adulto,Muy Alta
+0,1,"Harrison, Mr. William",40.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto,Baja
+0,3,"Henry, Miss. Delia",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,2,"Reeves, Mr. David",36.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto,Media
+0,3,"Panula, Mr. Ernesti Arvid",16.0,4,1,39.6875,True,False,True,3.705920919968788,3,1,5,0,Mr,Adolescente,Muy Alta
+1,3,"Persson, Mr. Ernst Ulrik",25.0,1,0,7.775,True,False,True,2.1719067693519296,1,0,1,0,Mr,Adulto Joven,Baja
+1,1,"Graham, Mrs. William Thompson (Edith Junkins)",58.0,0,1,153.4625,False,False,True,5.039951348430309,0,1,1,0,Mrs,Adulto,Muy Alta
+1,1,"Bissette, Miss. Amelia",35.0,0,0,135.6333,False,False,True,4.91730069488021,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,1,"Cairns, Mr. Alexander",28.0,0,0,31.0,True,False,True,3.4657359027997265,0,0,0,1,Mr,Adulto Joven,Alta
+1,3,"Tornquist, Mr. William Henry",25.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",41.0,0,1,19.5,False,False,True,3.0204248861443626,0,1,1,0,Mrs,Adulto,Alta
+0,1,"Natsch, Mr. Charles H",37.0,0,1,29.7,True,False,False,3.4242626545931514,0,1,1,0,Mr,Adulto,Alta
+1,3,"Healy, Miss. Hanora ""Nora""",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+1,1,"Andrews, Miss. Kornelia Theodosia",63.0,1,0,77.9583,False,False,True,4.368919865004903,1,0,1,0,Miss,Adulto Mayor,Muy Alta
+0,3,"Lindblom, Miss. Augusta Charlotta",45.0,0,0,7.75,False,False,True,2.169053700369523,0,0,0,1,Miss,Adulto,Baja
+0,2,"Parkes, Mr. Francis ""Frank""",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Rice, Master. Eric",7.0,4,1,29.125,True,True,False,3.405355391810819,3,1,5,0,Master,Niño,Alta
+1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",35.0,1,1,20.25,False,False,True,3.056356895370426,1,1,2,0,Mrs,Adulto Joven,Alta
+0,3,"Duane, Mr. Frank",65.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Mayor,Baja
+0,3,"Olsson, Mr. Nils Johan Goransson",28.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"de Pelsmaeker, Mr. Alfons",16.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adolescente,Media
+1,3,"Dorking, Mr. Edward Arthur",19.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Smith, Mr. Richard William",28.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Stankovic, Mr. Ivan",33.0,0,0,8.6625,True,False,False,2.2682524139135403,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"de Mulder, Mr. Theodore",30.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Naidenoff, Mr. Penko",22.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Hosono, Mr. Masabumi",42.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+1,3,"Connolly, Miss. Kate",22.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+1,1,"Barber, Miss. Ellen ""Nellie""",26.0,0,0,78.85,False,False,True,4.380149874661021,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",19.0,1,0,91.0792,False,False,False,4.5226490762785785,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,2,"Levy, Mr. Rene Jacques",36.0,0,0,12.875,True,False,False,2.630088659632498,0,0,0,1,Mr,Adulto,Media
+0,3,"Haas, Miss. Aloisia",24.0,0,0,8.85,False,False,True,2.2874714551839976,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Mineff, Mr. Ivan",24.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Lewy, Mr. Ervin G",28.0,0,0,27.7208,True,False,False,3.357621598945279,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Hanna, Mr. Mansour",23.5,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Allison, Miss. Helen Loraine",2.0,1,2,151.55,False,False,True,5.027492411162679,1,2,3,0,Miss,Niño,Muy Alta
+1,1,"Saalfeld, Mr. Adolphe",28.0,0,0,30.5,True,False,True,3.449987545831587,0,0,0,1,Mr,Adulto Joven,Alta
+1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,0,1,247.5208,False,False,False,5.515526544247129,0,1,1,0,Mrs,Adulto,Muy Alta
+1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+1,3,"McCoy, Mr. Bernard",28.0,2,0,23.25,True,True,False,3.188416617383492,2,0,2,0,Mr,Adulto Joven,Alta
+0,3,"Johnson, Mr. William Cahoone Jr",19.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Keane, Miss. Nora A",28.0,0,0,12.35,False,True,False,2.5915163848462583,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Williams, Mr. Howard Hugh ""Harry""",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Allison, Master. Hudson Trevor",0.92,1,2,151.55,True,False,True,5.027492411162679,1,2,3,0,Master,Niño,Muy Alta
+1,1,"Fleming, Miss. Margaret",28.0,0,0,110.8833,False,False,False,4.717456363787216,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17.0,1,0,108.9,False,False,False,4.699570861409576,1,0,1,0,Mrs,Adolescente,Muy Alta
+0,2,"Abelson, Mr. Samuel",30.0,1,0,24.0,True,False,False,3.2188758248682006,1,0,1,0,Mr,Adulto Joven,Alta
+1,1,"Francatelli, Miss. Laura Mabel",30.0,0,0,56.9292,False,False,False,4.0592215752427645,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,1,"Hays, Miss. Margaret Bechstein",24.0,0,0,83.1583,False,False,False,4.432699549165613,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,1,"Ryerson, Miss. Emily Borie",18.0,2,2,262.375,False,False,False,5.5735788721243535,2,2,4,0,Miss,Adolescente,Muy Alta
+0,2,"Lahtinen, Mrs. William (Anna Sylfven)",26.0,1,1,26.0,False,False,True,3.295836866004329,1,1,2,0,Mrs,Adulto Joven,Alta
+0,3,"Hendekovic, Mr. Ignjac",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Hart, Mr. Benjamin",43.0,1,1,26.25,True,False,True,3.305053521109253,1,1,2,0,Mr,Adulto,Alta
+1,3,"Nilsson, Miss. Helmina Josefina",26.0,0,0,7.8542,False,False,True,2.180891922715322,0,0,0,1,Miss,Adulto Joven,Baja
+1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",24.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto Joven,Alta
+0,2,"Moraweck, Dr. Ernest",54.0,0,0,14.0,True,False,True,2.70805020110221,0,0,0,1,Rare,Adulto,Media
+1,1,"Wick, Miss. Mary Natalie",31.0,0,2,164.8667,False,False,True,5.11118445372147,0,2,2,0,Miss,Adulto Joven,Muy Alta
+1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,1,1,134.5,False,False,False,4.908971640319756,1,1,2,0,Mrs,Adulto,Muy Alta
+0,3,"Dennis, Mr. Samuel",22.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Danoff, Mr. Yoto",27.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Slayter, Miss. Hilda Mary",30.0,0,0,12.35,False,True,False,2.5915163848462583,0,0,0,1,Miss,Adulto Joven,Media
+1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22.0,1,1,29.0,False,False,True,3.4011973816621555,1,1,2,0,Mrs,Adulto Joven,Alta
+0,3,"Sage, Mr. George John Jr",28.0,8,2,69.55,True,False,True,4.256321678298823,3,2,10,0,Mr,Adulto Joven,Muy Alta
+1,1,"Young, Miss. Marie Grice",36.0,0,0,135.6333,False,False,False,4.91730069488021,0,0,0,1,Miss,Adulto,Muy Alta
+0,3,"Nysveen, Mr. Johan Hansen",61.0,0,0,6.2375,True,False,True,1.9792758428991135,0,0,0,1,Mr,Adulto Mayor,Baja
+1,2,"Ball, Mrs. (Ada E Hall)",36.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Mrs,Adulto,Media
+1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31.0,1,1,20.525,False,False,True,3.0692150503137943,1,1,2,0,Mrs,Adulto Joven,Alta
+1,1,"Hippach, Miss. Jean Gertrude",16.0,0,1,57.9792,False,False,False,4.077184839375167,0,1,1,0,Miss,Adolescente,Muy Alta
+1,3,"McCoy, Miss. Agnes",28.0,2,0,23.25,False,True,False,3.188416617383492,2,0,2,0,Miss,Adulto Joven,Alta
+0,1,"Partner, Mr. Austen",45.5,0,0,28.5,True,False,True,3.3843902633457743,0,0,0,1,Mr,Adulto,Alta
+0,1,"Graham, Mr. George Edward",38.0,0,1,153.4625,True,False,True,5.039951348430309,0,1,1,0,Mr,Adulto,Muy Alta
+0,3,"Vander Planke, Mr. Leo Edmondus",16.0,2,0,18.0,True,False,True,2.9444389791664403,2,0,2,0,Mr,Adolescente,Alta
+1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",28.0,1,0,133.65,False,False,True,4.902678819257608,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Denkoff, Mr. Mitto",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Pears, Mr. Thomas Clinton",29.0,1,0,66.6,True,False,True,4.213607983048918,1,0,1,0,Mr,Adulto Joven,Muy Alta
+1,1,"Burns, Miss. Elizabeth Margaret",41.0,0,0,134.5,False,False,False,4.908971640319756,0,0,0,1,Miss,Adulto,Muy Alta
+1,3,"Dahl, Mr. Karl Edwart",45.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+0,1,"Blackwell, Mr. Stephen Weart",45.0,0,0,35.5,True,False,True,3.597312260588446,0,0,0,1,Mr,Adulto,Muy Alta
+1,2,"Navratil, Master. Edmond Roger",2.0,1,1,26.0,True,False,True,3.295836866004329,1,1,2,0,Master,Niño,Alta
+1,1,"Fortune, Miss. Alice Elizabeth",24.0,3,2,263.0,False,False,True,5.575949103146316,3,2,5,0,Miss,Adulto Joven,Muy Alta
+0,2,"Collander, Mr. Erik Gustaf",28.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Sedgwick, Mr. Charles Frederick Waddington",25.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Fox, Mr. Stanley Hubert",36.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+1,2,"Brown, Miss. Amelia ""Mildred""",24.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+1,2,"Smith, Miss. Marion Elsie",40.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto,Media
+1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",28.0,1,0,16.1,False,False,True,2.8390784635086144,1,0,1,0,Mrs,Adulto Joven,Alta
+1,3,"Coutts, Master. William Loch ""William""",3.0,1,1,15.9,True,False,True,2.8273136219290276,1,1,2,0,Master,Niño,Alta
+0,3,"Dimic, Mr. Jovan",42.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adulto,Media
+0,3,"Odahl, Mr. Nils Martin",23.0,0,0,9.225,True,False,True,2.3248357019288655,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Williams-Lambert, Mr. Fletcher Fellows",28.0,0,0,35.0,True,False,True,3.58351893845611,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Elias, Mr. Tannous",15.0,1,1,7.2292,True,False,False,2.1076888046179385,1,1,2,0,Mr,Adolescente,Baja
+0,3,"Arnold-Franchi, Mr. Josef",25.0,1,0,17.8,True,False,True,2.9338568698359038,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Yousif, Mr. Wazli",28.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Vanden Steen, Mr. Leo Peter",28.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Bowerman, Miss. Elsie Edith",22.0,0,1,55.0,False,False,True,4.02535169073515,0,1,1,0,Miss,Adulto Joven,Muy Alta
+0,2,"Funk, Miss. Annie Clemmer",38.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto,Media
+1,3,"McGovern, Miss. Mary",28.0,0,0,7.8792,False,True,False,2.1837114628556327,0,0,0,1,Miss,Adulto Joven,Baja
+1,3,"Mockler, Miss. Helen Mary ""Ellie""",28.0,0,0,7.8792,False,True,False,2.1837114628556327,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Skoog, Mr. Wilhelm",40.0,1,4,27.9,True,False,True,3.3638415951183864,1,2,5,0,Mr,Adulto,Alta
+0,2,"del Carlo, Mr. Sebastiano",29.0,1,0,27.7208,True,False,False,3.357621598945279,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Barbara, Mrs. (Catherine David)",45.0,0,1,14.4542,False,False,False,2.737880811060884,0,1,1,0,Mrs,Adulto,Media
+0,3,"Asim, Mr. Adola",35.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"O'Brien, Mr. Thomas",28.0,1,0,15.5,True,True,False,2.803360380906535,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Adahl, Mr. Mauritz Nils Martin",30.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60.0,1,0,75.25,False,False,False,4.334017415487521,1,0,1,0,Mrs,Adulto,Muy Alta
+1,3,"Moussa, Mrs. (Mantoura Boulos)",28.0,0,0,7.2292,False,False,False,2.1076888046179385,0,0,0,1,Mrs,Adulto Joven,Baja
+1,3,"Jermyn, Miss. Annie",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+1,1,"Aubart, Mme. Leontine Pauline",24.0,0,0,69.3,False,False,False,4.252771798816619,0,0,0,1,Mrs,Adulto Joven,Muy Alta
+1,1,"Harder, Mr. George Achilles",25.0,1,0,55.4417,True,False,False,4.0332082470129285,1,0,1,0,Mr,Adulto Joven,Muy Alta
+0,3,"Wiklund, Mr. Jakob Alfred",18.0,1,0,6.4958,True,False,True,2.0143428636837015,1,0,1,0,Mr,Adolescente,Baja
+0,3,"Beavan, Mr. William Thomas",19.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Ringhini, Mr. Sante",22.0,0,0,135.6333,True,False,False,4.91730069488021,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Palsson, Miss. Stina Viola",3.0,3,1,21.075,False,False,True,3.0944457464900235,3,1,4,0,Miss,Niño,Alta
+1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",28.0,1,0,82.1708,False,False,False,4.420896324687287,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+1,3,"Landergren, Miss. Aurora Adelia",22.0,0,0,7.25,False,False,True,2.1102132003465894,0,0,0,1,Miss,Adulto Joven,Baja
+0,1,"Widener, Mr. Harry Elkins",27.0,0,2,211.5,True,False,False,5.358941988364472,0,2,2,0,Mr,Adulto Joven,Muy Alta
+0,3,"Betros, Mr. Tannous",20.0,0,0,4.0125,True,False,False,1.6119347926326877,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Gustafsson, Mr. Karl Gideon",19.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Bidois, Miss. Rosalie",42.0,0,0,227.525,False,False,False,5.4316456135398825,0,0,0,1,Miss,Adulto,Muy Alta
+1,3,"Nakid, Miss. Maria (""Mary"")",1.0,0,2,15.7417,False,False,False,2.817902613071225,0,2,2,0,Miss,Niño,Alta
+0,3,"Tikkanen, Mr. Juho",32.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35.0,1,0,52.0,False,False,True,3.970291913552122,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Plotcharsky, Mr. Vasil",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Davies, Mr. Charles Henry",18.0,0,0,73.5,True,False,True,4.310799125385514,0,0,0,1,Mr,Adolescente,Muy Alta
+0,3,"Goodwin, Master. Sidney Leonard",1.0,5,2,46.9,True,False,True,3.8691155044168695,3,2,7,0,Master,Niño,Muy Alta
+1,2,"Buss, Miss. Kate",36.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto,Media
+0,3,"Sadlier, Mr. Matthew",28.0,0,0,7.7292,True,True,False,2.1666737276227077,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Lehmann, Miss. Bertha",17.0,0,0,12.0,False,False,False,2.5649493574615367,0,0,0,1,Miss,Adolescente,Media
+1,1,"Carter, Mr. William Ernest",36.0,1,2,120.0,True,False,True,4.795790545596741,1,2,3,0,Mr,Adulto,Muy Alta
+1,3,"Jansson, Mr. Carl Olof",21.0,0,0,7.7958,True,False,True,2.174274334826008,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Gustafsson, Mr. Johan Birger",28.0,2,0,7.925,True,False,True,2.188856327665703,2,0,2,0,Mr,Adulto Joven,Media
+1,1,"Newell, Miss. Marjorie",23.0,1,0,113.275,False,False,False,4.738607824217808,1,0,1,0,Miss,Adulto Joven,Muy Alta
+1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24.0,0,2,16.7,False,False,True,2.8735646395797834,0,2,2,0,Mrs,Adulto Joven,Alta
+0,3,"Johansson, Mr. Erik",22.0,0,0,7.7958,True,False,True,2.174274334826008,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Olsson, Miss. Elina",31.0,0,0,7.8542,False,False,True,2.180891922715322,0,0,0,1,Miss,Adulto Joven,Baja
+0,2,"McKane, Mr. Peter David",46.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto,Alta
+0,2,"Pain, Dr. Alfred",23.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Rare,Adulto Joven,Media
+1,2,"Trout, Mrs. William H (Jessie L)",28.0,0,0,12.65,False,False,True,2.613739521630969,0,0,0,1,Mrs,Adulto Joven,Media
+1,3,"Niskanen, Mr. Juha",39.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto,Media
+0,3,"Adams, Mr. John",26.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Jussila, Miss. Mari Aina",21.0,1,0,9.825,False,False,True,2.3818582738885534,1,0,1,0,Miss,Adulto Joven,Media
+0,3,"Hakkarainen, Mr. Pekka Pietari",28.0,1,0,15.85,True,False,True,2.8243506567983707,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Oreskovic, Miss. Marija",20.0,0,0,8.6625,False,False,True,2.2682524139135403,0,0,0,1,Miss,Adulto Joven,Media
+0,2,"Gale, Mr. Shadrach",34.0,1,0,21.0,True,False,True,3.091042453358316,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Widegren, Mr. Carl/Charles Peter",51.0,0,0,7.75,True,False,True,2.169053700369523,0,0,0,1,Mr,Adulto,Baja
+1,2,"Richards, Master. William Rowe",3.0,1,1,18.75,True,False,True,2.9831534913471307,1,1,2,0,Master,Niño,Alta
+0,3,"Birkeland, Mr. Hans Martin Monsen",21.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Lefebre, Miss. Ida",28.0,3,1,25.4667,False,False,True,3.275887339030031,3,1,4,0,Miss,Adulto Joven,Alta
+0,3,"Sdycoff, Mr. Todor",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Hart, Mr. Henry",28.0,0,0,6.8583,True,True,False,2.061570298060867,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Minahan, Miss. Daisy E",33.0,1,0,90.0,False,True,False,4.51085950651685,1,0,1,0,Miss,Adulto Joven,Muy Alta
+0,2,"Cunningham, Mr. Alfred Fleming",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Sundman, Mr. Johan Julian",44.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto,Media
+0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",28.0,0,0,8.05,False,False,True,2.2027647577118348,0,0,0,1,Mrs,Adulto Joven,Media
+1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34.0,1,1,32.5,False,False,True,3.5115454388310208,1,1,2,0,Mrs,Adulto Joven,Muy Alta
+1,2,"Silven, Miss. Lyyli Karoliina",18.0,0,2,13.0,False,False,True,2.6390573296152584,0,2,2,0,Miss,Adolescente,Media
+0,2,"Matthews, Mr. William John",30.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Van Impe, Miss. Catharina",10.0,0,2,24.15,False,False,True,3.224857896545748,0,2,2,0,Miss,Niño,Alta
+0,3,"Gheorgheff, Mr. Stanio",28.0,0,0,7.8958,True,False,False,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Charters, Mr. David",21.0,0,0,7.7333,True,True,False,2.167143305297764,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Zimmerman, Mr. Leo",29.0,0,0,7.875,True,False,True,2.1832383353614797,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28.0,1,1,14.4,False,False,True,2.7343675094195836,1,1,2,0,Mrs,Adulto Joven,Media
+0,3,"Rosblom, Mr. Viktor Richard",18.0,1,1,20.2125,True,False,True,3.0545906305603445,1,1,2,0,Mr,Adolescente,Alta
+0,3,"Wiseman, Mr. Phillippe",28.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",28.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto Joven,Alta
+1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19.0,0,0,26.0,False,False,True,3.295836866004329,0,0,0,1,Miss,Adulto Joven,Alta
+0,3,"Flynn, Mr. James",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Pickard, Mr. Berk (Berk Trembisky)",32.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Joven,Alta
+1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",28.0,1,0,16.1,False,False,True,2.8390784635086144,1,0,1,0,Mrs,Adulto Joven,Alta
+1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto,Alta
+0,3,"Kallio, Mr. Nikolai Erland",17.0,0,0,7.125,True,False,True,2.094945728215801,0,0,0,1,Mr,Adolescente,Baja
+0,1,"Silvey, Mr. William Baird",50.0,1,0,55.9,True,False,True,4.041295341132285,1,0,1,0,Mr,Adulto,Muy Alta
+1,1,"Carter, Miss. Lucile Polk",14.0,1,2,120.0,False,False,True,4.795790545596741,1,2,3,0,Miss,Adolescente,Muy Alta
+0,3,"Ford, Miss. Doolina Margaret ""Daisy""",21.0,2,2,34.375,False,False,True,3.5660053559634015,2,2,4,0,Miss,Adulto Joven,Muy Alta
+1,2,"Richards, Mrs. Sidney (Emily Hocking)",24.0,2,3,18.75,False,False,True,2.9831534913471307,2,2,5,0,Mrs,Adulto Joven,Alta
+0,1,"Fortune, Mr. Mark",64.0,1,4,263.0,True,False,True,5.575949103146316,1,2,5,0,Mr,Adulto Mayor,Muy Alta
+0,2,"Kvillner, Mr. Johan Henrik Johannesson",31.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45.0,1,1,26.25,False,False,True,3.305053521109253,1,1,2,0,Mrs,Adulto,Alta
+0,3,"Hampe, Mr. Leon",20.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Petterson, Mr. Johan Emil",25.0,1,0,7.775,True,False,True,2.1719067693519296,1,0,1,0,Mr,Adulto Joven,Baja
+1,2,"Reynaldo, Ms. Encarnacion",28.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+1,3,"Johannesen-Bratthammer, Mr. Bernt",28.0,0,0,8.1125,True,False,True,2.2096470973347766,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Dodge, Master. Washington",4.0,0,2,81.8583,True,False,True,4.417131919904876,0,2,2,0,Master,Niño,Muy Alta
+1,2,"Mellinger, Miss. Madeleine Violet",13.0,0,1,19.5,False,False,True,3.0204248861443626,0,1,1,0,Miss,Adolescente,Alta
+1,1,"Seward, Mr. Frederic Kimber",34.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Joven,Alta
+1,3,"Baclini, Miss. Marie Catherine",5.0,2,1,19.2583,False,False,False,3.0085645861193133,2,1,3,0,Miss,Niño,Alta
+1,1,"Peuchen, Major. Arthur Godfrey",52.0,0,0,30.5,True,False,True,3.449987545831587,0,0,0,1,Rare,Adulto,Alta
+0,2,"West, Mr. Edwy Arthur",36.0,1,2,27.75,True,False,True,3.3586377672433594,1,2,3,0,Mr,Adulto,Alta
+0,3,"Hagland, Mr. Ingvald Olai Olsen",28.0,1,0,19.9667,True,False,True,3.0429354648621407,1,0,1,0,Mr,Adulto Joven,Alta
+0,1,"Foreman, Mr. Benjamin Laventall",30.0,0,0,27.75,True,False,False,3.3586377672433594,0,0,0,1,Mr,Adulto Joven,Alta
+1,1,"Goldenberg, Mr. Samuel L",49.0,1,0,89.1042,True,False,False,4.500966778400217,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Peduzzi, Mr. Joseph",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Jalsevac, Mr. Ivan",29.0,0,0,7.8958,True,False,False,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Millet, Mr. Francis Davis",65.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Mayor,Alta
+1,1,"Kenyon, Mrs. Frederick R (Marion)",28.0,1,0,51.8625,False,False,True,3.967694202798607,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+1,2,"Toomey, Miss. Ellen",50.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Miss,Adulto,Media
+0,3,"O'Connor, Mr. Maurice",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Anderson, Mr. Harry",48.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto,Alta
+0,3,"Morley, Mr. William",34.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Gee, Mr. Arthur H",47.0,0,0,38.5,True,False,True,3.676300671907076,0,0,0,1,Mr,Adulto,Muy Alta
+0,2,"Milling, Mr. Jacob Christian",48.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+0,3,"Maisner, Mr. Simon",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Goncalves, Mr. Manuel Estanslas",38.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto,Baja
+0,2,"Campbell, Mr. William",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Smart, Mr. John Montgomery",56.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto,Alta
+0,3,"Scanlan, Mr. James",28.0,0,0,7.725,True,True,False,2.1661924680884908,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Baclini, Miss. Helene Barbara",0.75,2,1,19.2583,False,False,False,3.0085645861193133,2,1,3,0,Miss,Niño,Alta
+0,3,"Keefe, Mr. Arthur",28.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Cacic, Mr. Luka",38.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adulto,Media
+1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",33.0,1,2,27.75,False,False,True,3.3586377672433594,1,2,3,0,Mrs,Adulto Joven,Alta
+1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23.0,0,0,13.7917,False,False,False,2.694066212646058,0,0,0,1,Mrs,Adulto Joven,Media
+0,3,"Strandberg, Miss. Ida Sofia",22.0,0,0,9.8375,False,False,True,2.3830123421066602,0,0,0,1,Miss,Adulto Joven,Media
+0,1,"Clifford, Mr. George Quincy",28.0,0,0,52.0,True,False,True,3.970291913552122,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,2,"Renouf, Mr. Peter Henry",34.0,1,0,21.0,True,False,True,3.091042453358316,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Braund, Mr. Lewis Richard",29.0,1,0,7.0458,True,False,True,2.0851502161468174,1,0,1,0,Mr,Adulto Joven,Baja
+0,3,"Karlsson, Mr. Nils August",22.0,0,0,7.5208,True,False,True,2.142510233146819,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Hirvonen, Miss. Hildur E",2.0,0,1,12.2875,False,False,True,2.586823743668066,0,1,1,0,Miss,Niño,Media
+0,3,"Goodwin, Master. Harold Victor",9.0,5,2,46.9,True,False,True,3.8691155044168695,3,2,7,0,Master,Niño,Muy Alta
+0,2,"Frost, Mr. Anthony Wood ""Archie""",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Rouse, Mr. Richard Henry",50.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+1,3,"Turkula, Mrs. (Hedwig)",63.0,0,0,9.5875,False,False,True,2.3596740599781727,0,0,0,1,Mrs,Adulto Mayor,Media
+1,1,"Bishop, Mr. Dickinson H",25.0,1,0,91.0792,True,False,False,4.5226490762785785,1,0,1,0,Mr,Adulto Joven,Muy Alta
+0,3,"Lefebre, Miss. Jeannie",28.0,3,1,25.4667,False,False,True,3.275887339030031,3,1,4,0,Miss,Adulto Joven,Alta
+1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35.0,1,0,90.0,False,False,True,4.51085950651685,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,1,"Kent, Mr. Edward Austin",58.0,0,0,29.7,True,False,False,3.4242626545931514,0,0,0,1,Mr,Adulto,Alta
+0,3,"Somerton, Mr. Francis William",30.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Coutts, Master. Eden Leslie ""Neville""",9.0,1,1,15.9,True,False,True,2.8273136219290276,1,1,2,0,Master,Niño,Alta
+0,3,"Hagland, Mr. Konrad Mathias Reiersen",28.0,1,0,19.9667,True,False,True,3.0429354648621407,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Windelov, Mr. Einar",21.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Molson, Mr. Harry Markland",55.0,0,0,30.5,True,False,True,3.449987545831587,0,0,0,1,Mr,Adulto,Alta
+0,1,"Artagaveytia, Mr. Ramon",71.0,0,0,49.5042,True,False,False,3.922056501139853,0,0,0,1,Mr,Adulto Mayor,Muy Alta
+0,3,"Stanley, Mr. Edward Roland",21.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Yousseff, Mr. Gerious",28.0,0,0,14.4583,True,False,False,2.738146075922933,0,0,0,1,Mr,Adulto Joven,Alta
+1,1,"Eustis, Miss. Elizabeth Mussey",54.0,1,0,78.2667,False,False,False,4.37281811610993,1,0,1,0,Miss,Adulto,Muy Alta
+0,3,"Shellard, Mr. Frederick William",28.0,0,0,15.1,True,False,True,2.7788192719904172,0,0,0,1,Mr,Adulto Joven,Alta
+0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25.0,1,2,151.55,False,False,True,5.027492411162679,1,2,3,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Svensson, Mr. Olof",24.0,0,0,7.7958,True,False,True,2.174274334826008,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Calic, Mr. Petar",17.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adolescente,Media
+0,3,"Canavan, Miss. Mary",21.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"O'Sullivan, Miss. Bridget Mary",28.0,0,0,7.6292,False,True,False,2.155151800914312,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Laitinen, Miss. Kristina Sofia",37.0,0,0,9.5875,False,False,True,2.3596740599781727,0,0,0,1,Miss,Adulto,Media
+1,1,"Maioni, Miss. Roberta",16.0,0,0,86.5,False,False,True,4.471638793363569,0,0,0,1,Miss,Adolescente,Muy Alta
+0,1,"Penasco y Castellana, Mr. Victor de Satode",18.0,1,0,108.9,True,False,False,4.699570861409576,1,0,1,0,Mr,Adolescente,Muy Alta
+1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",33.0,0,2,26.0,False,False,True,3.295836866004329,0,2,2,0,Mrs,Adulto Joven,Alta
+1,1,"Bradley, Mr. George (""George Arthur Brayton"")",28.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Olsen, Mr. Henry Margido",28.0,0,0,22.525,True,False,True,3.1580636854714434,0,0,0,1,Mr,Adulto Joven,Alta
+1,3,"Lang, Mr. Fang",26.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,3,"Daly, Mr. Eugene Patrick",29.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Webber, Mr. James",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"McGough, Mr. James Robert",36.0,0,0,26.2875,True,False,True,3.3064287218760624,0,0,0,1,Mr,Adulto,Alta
+1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54.0,1,0,59.4,False,False,False,4.100989104940769,1,0,1,0,Mrs,Adulto,Muy Alta
+0,3,"Coleff, Mr. Satio",24.0,0,0,7.4958,True,False,True,2.139571923732859,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Walker, Mr. William Anderson",47.0,0,0,34.0208,True,False,True,3.5559421706858756,0,0,0,1,Mr,Adulto,Muy Alta
+1,2,"Lemore, Mrs. (Amelia Milley)",34.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Mrs,Adulto Joven,Media
+0,3,"Ryan, Mr. Patrick",28.0,0,0,24.15,True,True,False,3.224857896545748,0,0,0,1,Mr,Adulto Joven,Alta
+1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto,Alta
+0,3,"Pavlovic, Mr. Stefo",32.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Perreault, Miss. Anne",30.0,0,0,93.5,False,False,True,4.548599834499697,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,3,"Vovk, Mr. Janko",22.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Lahoud, Mr. Sarkis",28.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44.0,0,1,57.9792,False,False,False,4.077184839375167,0,1,1,0,Mrs,Adulto,Muy Alta
+0,3,"Kassem, Mr. Fared",28.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Farrell, Mr. James",40.5,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto,Baja
+1,2,"Ridsdale, Miss. Lucy",50.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Miss,Adulto,Media
+0,1,"Farthing, Mr. John",28.0,0,0,221.7792,True,False,True,5.406181146423973,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Salonen, Mr. Johan Werner",39.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto,Media
+0,2,"Hocking, Mr. Richard George",23.0,2,1,11.5,True,False,True,2.5257286443082556,2,1,3,0,Mr,Adulto Joven,Media
+1,2,"Quick, Miss. Phyllis May",2.0,1,1,26.0,False,False,True,3.295836866004329,1,1,2,0,Miss,Niño,Alta
+0,3,"Toufik, Mr. Nakli",28.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Elias, Mr. Joseph Jr",17.0,1,1,7.2292,True,False,False,2.1076888046179385,1,1,2,0,Mr,Adolescente,Baja
+1,3,"Peter, Mrs. Catherine (Catherine Rizk)",28.0,0,2,22.3583,False,False,False,3.1509523813392697,0,2,2,0,Mrs,Adulto Joven,Alta
+0,3,"Cacic, Miss. Marija",30.0,0,0,8.6625,False,False,True,2.2682524139135403,0,0,0,1,Miss,Adulto Joven,Media
+1,2,"Hart, Miss. Eva Miriam",7.0,0,2,26.25,False,False,True,3.305053521109253,0,2,2,0,Miss,Niño,Alta
+0,1,"Butt, Major. Archibald Willingham",45.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Rare,Adulto,Alta
+1,1,"LeRoy, Miss. Bertha",30.0,0,0,106.425,False,False,False,4.676792929661059,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,3,"Risien, Mr. Samuel Beard",28.0,0,0,14.5,True,False,True,2.740840023925201,0,0,0,1,Mr,Adulto Joven,Alta
+1,1,"Frolicher, Miss. Hedwig Margaritha",22.0,0,2,49.5,False,False,False,3.9219733362813143,0,2,2,0,Miss,Adulto Joven,Muy Alta
+1,1,"Crosby, Miss. Harriet R",36.0,0,2,71.0,False,False,True,4.276666119016055,0,2,2,0,Miss,Adulto,Muy Alta
+0,3,"Andersson, Miss. Ingeborg Constanzia",9.0,4,2,31.275,False,False,True,3.4742929367327062,3,2,6,0,Miss,Niño,Muy Alta
+0,3,"Andersson, Miss. Sigrid Elisabeth",11.0,4,2,31.275,False,False,True,3.4742929367327062,3,2,6,0,Miss,Niño,Muy Alta
+1,2,"Beane, Mr. Edward",32.0,1,0,26.0,True,False,True,3.295836866004329,1,0,1,0,Mr,Adulto Joven,Alta
+0,1,"Douglas, Mr. Walter Donald",50.0,1,0,106.425,True,False,False,4.676792929661059,1,0,1,0,Mr,Adulto,Muy Alta
+0,1,"Nicholson, Mr. Arthur Ernest",64.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto Mayor,Alta
+1,2,"Beane, Mrs. Edward (Ethel Clarke)",19.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto Joven,Alta
+1,2,"Padro y Manent, Mr. Julian",28.0,0,0,13.8625,True,False,False,2.6988412620169004,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Goldsmith, Mr. Frank John",33.0,1,1,20.525,True,False,True,3.0692150503137943,1,1,2,0,Mr,Adulto Joven,Alta
+1,2,"Davies, Master. John Morgan Jr",8.0,1,1,36.75,True,False,True,3.6309854756950335,1,1,2,0,Master,Niño,Muy Alta
+1,1,"Thayer, Mr. John Borland Jr",17.0,0,2,110.8833,True,False,False,4.717456363787216,0,2,2,0,Mr,Adolescente,Muy Alta
+0,2,"Sharp, Mr. Percival James R",27.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"O'Brien, Mr. Timothy",28.0,0,0,7.8292,True,True,False,2.17806441028492,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",22.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Ohman, Miss. Velin",22.0,0,0,7.775,False,False,True,2.1719067693519296,0,0,0,1,Miss,Adulto Joven,Baja
+0,1,"Wright, Mr. George",62.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Mayor,Alta
+1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48.0,1,0,39.6,False,False,False,3.703768066607687,1,0,1,0,Rare,Adulto,Muy Alta
+0,1,"Robbins, Mr. Victor",28.0,0,0,227.525,True,False,False,5.4316456135398825,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",39.0,1,1,79.65,False,False,True,4.390118804571218,1,1,2,0,Mrs,Adulto,Muy Alta
+1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36.0,1,0,17.4,False,False,True,2.91235066461494,1,0,1,0,Mrs,Adulto,Alta
+0,3,"Morrow, Mr. Thomas Rowan",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Sivic, Mr. Husein",40.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto,Baja
+0,2,"Norman, Mr. Robert Douglas",28.0,0,0,13.5,True,False,True,2.6741486494265287,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Simmons, Mr. John",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Meanwell, Miss. (Marion Ogden)",28.0,0,0,8.05,False,False,True,2.2027647577118348,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Davies, Mr. Alfred J",24.0,2,0,24.15,True,False,True,3.224857896545748,2,0,2,0,Mr,Adulto Joven,Alta
+0,3,"Stoytcheff, Mr. Ilia",19.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29.0,0,4,21.075,False,False,True,3.0944457464900235,0,2,4,0,Mrs,Adulto Joven,Alta
+0,3,"Doharr, Mr. Tannous",28.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Jonsson, Mr. Carl",32.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Harris, Mr. George",62.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Mayor,Media
+1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53.0,2,0,51.4792,False,False,True,3.960416900617205,2,0,2,0,Mrs,Adulto,Muy Alta
+1,1,"Flynn, Mr. John Irwin (""Irving"")",36.0,0,0,26.3875,True,False,True,3.3100867049215847,0,0,0,1,Mr,Adulto,Alta
+1,3,"Kelly, Miss. Mary",28.0,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Rush, Mr. Alfred George John",16.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adolescente,Media
+0,3,"Patchett, Mr. George",19.0,0,0,14.5,True,False,True,2.740840023925201,0,0,0,1,Mr,Adulto Joven,Alta
+1,2,"Garside, Miss. Ethel",34.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+1,1,"Silvey, Mrs. William Baird (Alice Munger)",39.0,1,0,55.9,False,False,True,4.041295341132285,1,0,1,0,Mrs,Adulto,Muy Alta
+0,3,"Caram, Mrs. Joseph (Maria Elias)",28.0,1,0,14.4583,False,False,False,2.738146075922933,1,0,1,0,Mrs,Adulto Joven,Alta
+1,3,"Jussila, Mr. Eiriik",32.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Christy, Miss. Julie Rachel",25.0,1,1,30.0,False,False,True,3.4339872044851463,1,1,2,0,Miss,Adulto Joven,Alta
+1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39.0,1,1,110.8833,False,False,False,4.717456363787216,1,1,2,0,Mrs,Adulto,Muy Alta
+0,2,"Downton, Mr. William James",54.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto,Alta
+0,1,"Ross, Mr. John Hugo",36.0,0,0,40.125,True,False,False,3.716616209085536,0,0,0,1,Mr,Adulto,Muy Alta
+0,3,"Paulner, Mr. Uscher",28.0,0,0,8.7125,True,False,False,2.2734137156937657,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Taussig, Miss. Ruth",18.0,0,2,79.65,False,False,True,4.390118804571218,0,2,2,0,Miss,Adolescente,Muy Alta
+0,2,"Jarvis, Mr. John Denzil",47.0,0,0,15.0,True,False,True,2.772588722239781,0,0,0,1,Mr,Adulto,Alta
+1,1,"Frolicher-Stehli, Mr. Maxmillian",60.0,1,1,79.2,True,False,False,4.384523514872469,1,1,2,0,Mr,Adulto,Muy Alta
+0,3,"Gilinski, Mr. Eliezer",22.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Murdlin, Mr. Joseph",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Rintamaki, Mr. Matti",35.0,0,0,7.125,True,False,True,2.094945728215801,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,1,0,78.2667,False,False,False,4.37281811610993,1,0,1,0,Mrs,Adulto,Muy Alta
+0,3,"Elsbury, Mr. William James",47.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto,Baja
+0,3,"Bourke, Miss. Mary",28.0,0,2,7.75,False,True,False,2.169053700369523,0,2,2,0,Miss,Adulto Joven,Baja
+0,2,"Chapman, Mr. John Henry",37.0,1,0,26.0,True,False,True,3.295836866004329,1,0,1,0,Mr,Adulto,Alta
+0,3,"Van Impe, Mr. Jean Baptiste",36.0,1,1,24.15,True,False,True,3.224857896545748,1,1,2,0,Mr,Adulto,Alta
+1,2,"Leitch, Miss. Jessie Wills",28.0,0,0,33.0,False,False,True,3.5263605246161616,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,3,"Johnson, Mr. Alfred",49.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto,Baja
+0,3,"Boulos, Mr. Hanna",28.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49.0,1,0,56.9292,True,False,False,4.0592215752427645,1,0,1,0,Rare,Adulto,Muy Alta
+1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24.0,2,1,27.0,False,False,True,3.332204510175204,2,1,3,0,Mrs,Adulto Joven,Alta
+0,3,"Slabenoff, Mr. Petco",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Harrington, Mr. Charles H",28.0,0,0,42.4,True,False,True,3.770459441106359,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Torber, Mr. Ernst William",44.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+1,1,"Homer, Mr. Harry (""Mr E Haven"")",35.0,0,0,26.55,True,False,False,3.3160025355989236,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Lindell, Mr. Edvard Bengtsson",36.0,1,0,15.55,True,False,True,2.806386101823072,1,0,1,0,Mr,Adulto,Alta
+0,3,"Karaic, Mr. Milan",30.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Daniel, Mr. Robert Williams",27.0,0,0,30.5,True,False,True,3.449987545831587,0,0,0,1,Mr,Adulto Joven,Alta
+1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22.0,1,2,41.5792,False,False,False,3.7513658711253766,1,2,3,0,Mrs,Adulto Joven,Muy Alta
+1,1,"Shutes, Miss. Elizabeth W",40.0,0,0,153.4625,False,False,True,5.039951348430309,0,0,0,1,Miss,Adulto,Muy Alta
+0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39.0,1,5,31.275,False,False,True,3.4742929367327062,1,2,6,0,Mrs,Adulto,Muy Alta
+0,3,"Jardin, Mr. Jose Neto",28.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Murphy, Miss. Margaret Jane",28.0,1,0,15.5,False,True,False,2.803360380906535,1,0,1,0,Miss,Adulto Joven,Alta
+0,3,"Horgan, Mr. John",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Brocklebank, Mr. William Alfred",35.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Herman, Miss. Alice",24.0,1,2,65.0,False,False,True,4.189654742026425,1,2,3,0,Miss,Adulto Joven,Muy Alta
+0,3,"Danbom, Mr. Ernst Gilbert",34.0,1,1,14.4,True,False,True,2.7343675094195836,1,1,2,0,Mr,Adulto Joven,Media
+0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",26.0,1,0,16.1,False,False,True,2.8390784635086144,1,0,1,0,Mrs,Adulto Joven,Alta
+1,2,"Becker, Miss. Marion Louise",4.0,2,1,39.0,False,False,True,3.6888794541139363,2,1,3,0,Miss,Niño,Muy Alta
+0,2,"Gavey, Mr. Lawrence",26.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Yasbeck, Mr. Antoni",27.0,1,0,14.4542,True,False,False,2.737880811060884,1,0,1,0,Mr,Adulto Joven,Media
+1,1,"Kimball, Mr. Edwin Nelson Jr",42.0,1,0,52.5542,True,False,True,3.9806942251907276,1,0,1,0,Mr,Adulto,Muy Alta
+1,3,"Nakid, Mr. Sahid",20.0,1,1,15.7417,True,False,False,2.817902613071225,1,1,2,0,Mr,Adulto Joven,Alta
+0,3,"Hansen, Mr. Henry Damsgaard",21.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Bowen, Mr. David John ""Dai""",21.0,0,0,16.1,True,False,True,2.8390784635086144,0,0,0,1,Mr,Adulto Joven,Alta
+0,1,"Sutton, Mr. Frederick",61.0,0,0,32.3208,True,False,True,3.5061818266142577,0,0,0,1,Mr,Adulto Mayor,Muy Alta
+0,2,"Kirkland, Rev. Charles Leonard",57.0,0,0,12.35,True,True,False,2.5915163848462583,0,0,0,1,Rare,Adulto,Media
+1,1,"Longley, Miss. Gretchen Fiske",21.0,0,0,77.9583,False,False,True,4.368919865004903,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,3,"Bostandyeff, Mr. Guentcho",26.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"O'Connell, Mr. Patrick D",28.0,0,0,7.7333,True,True,False,2.167143305297764,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Barkworth, Mr. Algernon Henry Wilson",80.0,0,0,30.0,True,False,True,3.4339872044851463,0,0,0,1,Mr,Adulto Mayor,Alta
+0,3,"Lundahl, Mr. Johan Svensson",51.0,0,0,7.0542,True,False,True,2.086193694502369,0,0,0,1,Mr,Adulto,Baja
+1,1,"Stahelin-Maeglin, Dr. Max",32.0,0,0,30.5,True,False,False,3.449987545831587,0,0,0,1,Rare,Adulto Joven,Alta
+0,1,"Parr, Mr. William Henry Marsh",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Skoog, Miss. Mabel",9.0,3,2,27.9,False,False,True,3.3638415951183864,3,2,5,0,Miss,Niño,Alta
+1,2,"Davis, Miss. Mary",28.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"Leinonen, Mr. Antti Gustaf",32.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Collyer, Mr. Harvey",31.0,1,1,26.25,True,False,True,3.305053521109253,1,1,2,0,Mr,Adulto Joven,Alta
+0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",41.0,0,5,39.6875,False,False,True,3.705920919968788,0,2,5,0,Mrs,Adulto,Muy Alta
+0,3,"Thorneycroft, Mr. Percival",28.0,1,0,16.1,True,False,True,2.8390784635086144,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Jensen, Mr. Hans Peder",20.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Sagesser, Mlle. Emma",24.0,0,0,69.3,False,False,False,4.252771798816619,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,3,"Skoog, Miss. Margit Elizabeth",2.0,3,2,27.9,False,False,True,3.3638415951183864,3,2,5,0,Miss,Niño,Alta
+1,3,"Foo, Mr. Choong",28.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,3,"Baclini, Miss. Eugenie",0.75,2,1,19.2583,False,False,False,3.0085645861193133,2,1,3,0,Miss,Niño,Alta
+1,1,"Harper, Mr. Henry Sleeper",48.0,1,0,76.7292,True,False,False,4.353230991152628,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Cor, Mr. Liudevit",19.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Simonius-Blumer, Col. Oberst Alfons",56.0,0,0,35.5,True,False,False,3.597312260588446,0,0,0,1,Rare,Adulto,Muy Alta
+0,3,"Willey, Mr. Edward",28.0,0,0,7.55,True,False,True,2.145931282948669,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Stanley, Miss. Amy Zillah Elsie",23.0,0,0,7.55,False,False,True,2.145931282948669,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Mitkoff, Mr. Mito",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Doling, Miss. Elsie",18.0,0,1,23.0,False,False,True,3.1780538303479458,0,1,1,0,Miss,Adolescente,Alta
+0,3,"Kalvik, Mr. Johannes Halvorsen",21.0,0,0,8.4333,True,False,True,2.2442459824059346,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"O'Leary, Miss. Hanora ""Norah""",28.0,0,0,7.8292,False,True,False,2.17806441028492,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Hegarty, Miss. Hanora ""Nora""",18.0,0,0,6.75,False,True,False,2.0476928433652555,0,0,0,1,Miss,Adolescente,Baja
+0,2,"Hickman, Mr. Leonard Mark",24.0,2,0,73.5,True,False,True,4.310799125385514,2,0,2,0,Mr,Adulto Joven,Muy Alta
+0,3,"Radeff, Mr. Alexander",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Bourke, Mrs. John (Catherine)",32.0,1,1,15.5,False,True,False,2.803360380906535,1,1,2,0,Mrs,Adulto Joven,Alta
+0,2,"Eitemiller, Mr. George Floyd",23.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Newell, Mr. Arthur Webster",58.0,0,2,113.275,True,False,False,4.738607824217808,0,2,2,0,Mr,Adulto,Muy Alta
+1,1,"Frauenthal, Dr. Henry William",50.0,2,0,133.65,True,False,True,4.902678819257608,2,0,2,0,Rare,Adulto,Muy Alta
+0,3,"Badt, Mr. Mohamed",40.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto,Baja
+0,1,"Colley, Mr. Edward Pomeroy",47.0,0,0,25.5875,True,False,True,3.2804411805263554,0,0,0,1,Mr,Adulto,Alta
+0,3,"Coleff, Mr. Peju",36.0,0,0,7.4958,True,False,True,2.139571923732859,0,0,0,1,Mr,Adulto,Baja
+1,3,"Lindqvist, Mr. Eino William",20.0,1,0,7.925,True,False,True,2.188856327665703,1,0,1,0,Mr,Adulto Joven,Media
+0,2,"Hickman, Mr. Lewis",32.0,2,0,73.5,True,False,True,4.310799125385514,2,0,2,0,Mr,Adulto Joven,Muy Alta
+0,2,"Butler, Mr. Reginald Fenton",25.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Rommetvedt, Mr. Knud Paust",28.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Cook, Mr. Jacob",43.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",28.0,1,0,52.0,False,False,True,3.970291913552122,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40.0,1,1,39.0,False,False,True,3.6888794541139363,1,1,2,0,Mrs,Adulto,Muy Alta
+0,1,"Davidson, Mr. Thornton",31.0,1,0,52.0,True,False,True,3.970291913552122,1,0,1,0,Mr,Adulto Joven,Muy Alta
+0,2,"Mitchell, Mr. Henry Michael",70.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Mayor,Media
+1,2,"Wilhelms, Mr. Charles",31.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Watson, Mr. Ennis Hastings",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Edvardsson, Mr. Gustaf Hjalmar",18.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adolescente,Baja
+0,3,"Sawyer, Mr. Frederick Charles",24.5,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Turja, Miss. Anna Sofia",18.0,0,0,9.8417,False,False,True,2.3833998102837652,0,0,0,1,Miss,Adolescente,Media
+0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",43.0,1,6,46.9,False,False,True,3.8691155044168695,1,2,7,0,Mrs,Adulto,Muy Alta
+1,1,"Cardeza, Mr. Thomas Drake Martinez",36.0,0,1,512.3292,True,False,False,6.240917354759096,0,1,1,0,Mr,Adulto,Muy Alta
+0,3,"Peters, Miss. Katie",28.0,0,0,8.1375,False,True,False,2.212386825075897,0,0,0,1,Miss,Adulto Joven,Media
+1,1,"Hassab, Mr. Hammad",27.0,0,0,76.7292,True,False,False,4.353230991152628,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Olsvigen, Mr. Thor Anderson",20.0,0,0,9.225,True,False,True,2.3248357019288655,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Goodwin, Mr. Charles Edward",14.0,5,2,46.9,True,False,True,3.8691155044168695,3,2,7,0,Mr,Adolescente,Muy Alta
+0,2,"Brown, Mr. Thomas William Solomon",60.0,1,1,39.0,True,False,True,3.6888794541139363,1,1,2,0,Mr,Adulto,Muy Alta
+0,2,"Laroche, Mr. Joseph Philippe Lemercier",25.0,1,2,41.5792,True,False,False,3.7513658711253766,1,2,3,0,Mr,Adulto Joven,Muy Alta
+0,3,"Panula, Mr. Jaako Arnold",14.0,4,1,39.6875,True,False,True,3.705920919968788,3,1,5,0,Mr,Adolescente,Muy Alta
+0,3,"Dakic, Mr. Branko",19.0,0,0,10.1708,True,False,True,2.4133032309283076,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Fischer, Mr. Eberhard Thelander",18.0,0,0,7.7958,True,False,True,2.174274334826008,0,0,0,1,Mr,Adolescente,Baja
+1,1,"Madill, Miss. Georgette Alexandra",15.0,0,1,211.3375,False,False,True,5.35817698994543,0,1,1,0,Miss,Adolescente,Muy Alta
+1,1,"Dick, Mr. Albert Adrian",31.0,1,0,57.0,True,False,True,4.060443010546419,1,0,1,0,Mr,Adulto Joven,Muy Alta
+1,3,"Karun, Miss. Manca",4.0,0,1,13.4167,False,False,False,2.668387256845834,0,1,1,0,Miss,Niño,Media
+1,3,"Lam, Mr. Ali",28.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Saad, Mr. Khalil",25.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Weir, Col. John",60.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Rare,Adulto,Alta
+0,2,"Chapman, Mr. Charles Henry",52.0,0,0,13.5,True,False,True,2.6741486494265287,0,0,0,1,Mr,Adulto,Media
+0,3,"Kelly, Mr. James",44.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto,Media
+1,3,"Mullens, Miss. Katherine ""Katie""",28.0,0,0,7.7333,False,True,False,2.167143305297764,0,0,0,1,Miss,Adulto Joven,Baja
+0,1,"Thayer, Mr. John Borland",49.0,1,1,110.8833,True,False,False,4.717456363787216,1,1,2,0,Mr,Adulto,Muy Alta
+0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42.0,0,0,7.65,True,False,True,2.157559320943788,0,0,0,1,Mr,Adulto,Baja
+1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18.0,1,0,227.525,False,False,False,5.4316456135398825,1,0,1,0,Mrs,Adolescente,Muy Alta
+1,1,"Silverthorne, Mr. Spencer Victor",35.0,0,0,26.2875,True,False,True,3.3064287218760624,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Barbara, Miss. Saiide",18.0,0,1,14.4542,False,False,False,2.737880811060884,0,1,1,0,Miss,Adolescente,Media
+0,3,"Gallagher, Mr. Martin",25.0,0,0,7.7417,True,True,False,2.1681046787623672,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Hansen, Mr. Henrik Juul",26.0,1,0,7.8542,True,False,True,2.180891922715322,1,0,1,0,Mr,Adulto Joven,Baja
+0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",39.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adulto,Alta
+1,2,"Kelly, Mrs. Florence ""Fannie""",45.0,0,0,13.5,False,False,True,2.6741486494265287,0,0,0,1,Mrs,Adulto,Media
+1,1,"Calderhead, Mr. Edward Pennington",42.0,0,0,26.2875,True,False,True,3.3064287218760624,0,0,0,1,Mr,Adulto,Alta
+1,1,"Cleaver, Miss. Alice",22.0,0,0,151.55,False,False,True,5.027492411162679,0,0,0,1,Miss,Adulto Joven,Muy Alta
+1,3,"Moubarek, Master. Halim Gonios (""William George"")",28.0,1,1,15.2458,True,False,False,2.7878344138303452,1,1,2,0,Master,Adulto Joven,Alta
+1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24.0,0,0,49.5042,False,False,False,3.922056501139853,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,1,"Klaber, Mr. Herman",28.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto Joven,Alta
+1,1,"Taylor, Mr. Elmer Zebley",48.0,1,0,52.0,True,False,True,3.970291913552122,1,0,1,0,Mr,Adulto,Muy Alta
+0,3,"Larsson, Mr. August Viktor",29.0,0,0,9.4833,True,False,True,2.3497835148230464,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Greenberg, Mr. Samuel",52.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",19.0,0,0,7.65,True,False,True,2.157559320943788,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Endres, Miss. Caroline Louise",38.0,0,0,227.525,False,False,False,5.4316456135398825,0,0,0,1,Miss,Adulto,Muy Alta
+1,2,"Troutt, Miss. Edwina Celia ""Winnie""",27.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Miss,Adulto Joven,Media
+0,3,"McEvoy, Mr. Michael",28.0,0,0,15.5,True,True,False,2.803360380906535,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Johnson, Mr. Malkolm Joackim",33.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Harper, Miss. Annie Jessie ""Nina""",6.0,0,1,33.0,False,False,True,3.5263605246161616,0,1,1,0,Miss,Niño,Muy Alta
+0,3,"Jensen, Mr. Svend Lauritz",17.0,1,0,7.0542,True,False,True,2.086193694502369,1,0,1,0,Mr,Adolescente,Baja
+0,2,"Gillespie, Mr. William Henry",34.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Hodges, Mr. Henry Price",50.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+1,1,"Chambers, Mr. Norman Campbell",27.0,1,0,53.1,True,False,True,3.9908341858524357,1,0,1,0,Mr,Adulto Joven,Muy Alta
+0,3,"Oreskovic, Mr. Luka",20.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30.0,3,0,21.0,False,False,True,3.091042453358316,3,0,3,0,Mrs,Adulto Joven,Alta
+1,3,"Mannion, Miss. Margareth",28.0,0,0,7.7375,False,True,False,2.1676241075599285,0,0,0,1,Miss,Adulto Joven,Baja
+0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",25.0,1,0,26.0,True,False,True,3.295836866004329,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Ilmakangas, Miss. Pieta Sofia",25.0,1,0,7.925,False,False,True,2.188856327665703,1,0,1,0,Miss,Adulto Joven,Media
+1,1,"Allen, Miss. Elisabeth Walton",29.0,0,0,211.3375,False,False,True,5.35817698994543,0,0,0,1,Miss,Adulto Joven,Muy Alta
+0,3,"Hassan, Mr. Houssein G N",11.0,0,0,18.7875,True,False,False,2.9850504252071306,0,0,0,1,Mr,Niño,Alta
+0,2,"Knight, Mr. Robert J",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Berriman, Mr. William John",23.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Troupiansky, Mr. Moses Aaron",23.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Williams, Mr. Leslie",28.5,0,0,16.1,True,False,True,2.8390784635086144,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",48.0,1,3,34.375,False,False,True,3.5660053559634015,1,2,4,0,Mrs,Adulto,Muy Alta
+1,1,"Lesurer, Mr. Gustave J",35.0,0,0,512.3292,True,False,False,6.240917354759096,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"Ivanoff, Mr. Kanio",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Nankoff, Mr. Minko",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Hawksford, Mr. Walter James",28.0,0,0,30.0,True,False,True,3.4339872044851463,0,0,0,1,Mr,Adulto Joven,Alta
+0,1,"Cavendish, Mr. Tyrell William",36.0,1,0,78.85,True,False,True,4.380149874661021,1,0,1,0,Mr,Adulto,Muy Alta
+1,1,"Ryerson, Miss. Susan Parker ""Suzette""",21.0,2,2,262.375,False,False,False,5.5735788721243535,2,2,4,0,Miss,Adulto Joven,Muy Alta
+0,3,"McNamee, Mr. Neal",24.0,1,0,16.1,True,False,True,2.8390784635086144,1,0,1,0,Mr,Adulto Joven,Alta
+1,3,"Stranden, Mr. Juho",31.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Crosby, Capt. Edward Gifford",70.0,1,1,71.0,True,False,True,4.276666119016055,1,1,2,0,Capt,Adulto Mayor,Muy Alta
+0,3,"Abbott, Mr. Rossmore Edward",16.0,1,1,20.25,True,False,True,3.056356895370426,1,1,2,0,Mr,Adolescente,Alta
+1,2,"Sinkkonen, Miss. Anna",30.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Miss,Adulto Joven,Media
+0,1,"Marvin, Mr. Daniel Warner",19.0,1,0,53.1,True,False,True,3.9908341858524357,1,0,1,0,Mr,Adulto Joven,Muy Alta
+0,3,"Connaghton, Mr. Michael",31.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Wells, Miss. Joan",4.0,1,1,23.0,False,False,True,3.1780538303479458,1,1,2,0,Miss,Niño,Alta
+1,3,"Moor, Master. Meier",6.0,0,1,12.475,True,False,True,2.600836116795061,0,1,1,0,Master,Niño,Media
+0,3,"Vande Velde, Mr. Johannes Joseph",33.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Jonkoff, Mr. Lalio",23.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Herman, Mrs. Samuel (Jane Laver)",48.0,1,2,65.0,False,False,True,4.189654742026425,1,2,3,0,Mrs,Adulto,Muy Alta
+1,2,"Hamalainen, Master. Viljo",0.67,1,1,14.5,True,False,True,2.740840023925201,1,1,2,0,Master,Niño,Alta
+0,3,"Carlsson, Mr. August Sigfrid",28.0,0,0,7.7958,True,False,True,2.174274334826008,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Bailey, Mr. Percy Andrew",18.0,0,0,11.5,True,False,True,2.5257286443082556,0,0,0,1,Mr,Adolescente,Media
+0,3,"Theobald, Mr. Thomas Leonard",34.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33.0,0,0,86.5,False,False,True,4.471638793363569,0,0,0,1,Rare,Adulto Joven,Muy Alta
+0,3,"Garfirth, Mr. John",28.0,0,0,14.5,True,False,True,2.740840023925201,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Nirva, Mr. Iisakki Antino Aijo",41.0,0,0,7.125,True,False,True,2.094945728215801,0,0,0,1,Mr,Adulto,Baja
+1,3,"Barah, Mr. Hanna Assi",20.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Carter, Mrs. William Ernest (Lucile Polk)",36.0,1,2,120.0,False,False,True,4.795790545596741,1,2,3,0,Mrs,Adulto,Muy Alta
+0,3,"Eklund, Mr. Hans Linus",16.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adolescente,Baja
+1,1,"Hogeboom, Mrs. John C (Anna Andrews)",51.0,1,0,77.9583,False,False,True,4.368919865004903,1,0,1,0,Mrs,Adulto,Muy Alta
+0,1,"Brewe, Dr. Arthur Jackson",28.0,0,0,39.6,True,False,False,3.703768066607687,0,0,0,1,Rare,Adulto Joven,Muy Alta
+0,3,"Mangan, Miss. Mary",30.5,0,0,7.75,False,True,False,2.169053700369523,0,0,0,1,Miss,Adulto Joven,Baja
+0,3,"Moran, Mr. Daniel J",28.0,1,0,24.15,True,True,False,3.224857896545748,1,0,1,0,Mr,Adulto Joven,Alta
+0,3,"Gronnestad, Mr. Daniel Danielsen",32.0,0,0,8.3625,True,False,True,2.236712348843338,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Lievens, Mr. Rene Aime",24.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Jensen, Mr. Niels Peder",48.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto,Baja
+0,2,"Mack, Mrs. (Mary)",57.0,0,0,10.5,False,False,True,2.4423470353692043,0,0,0,1,Mrs,Adulto,Media
+0,3,"Elias, Mr. Dibo",28.0,0,0,7.225,True,False,False,2.1071782966514356,0,0,0,1,Mr,Adulto Joven,Baja
+1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",54.0,1,3,23.0,False,False,True,3.1780538303479458,1,2,4,0,Mrs,Adulto,Alta
+0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18.0,0,0,7.75,True,False,True,2.169053700369523,0,0,0,1,Mr,Adolescente,Baja
+0,3,"Tobin, Mr. Roger",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Emanuel, Miss. Virginia Ethel",5.0,0,0,12.475,False,False,True,2.600836116795061,0,0,0,1,Miss,Niño,Media
+0,3,"Kilgannon, Mr. Thomas J",28.0,0,0,7.7375,True,True,False,2.1676241075599285,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43.0,0,1,211.3375,False,False,True,5.35817698994543,0,1,1,0,Mrs,Adulto,Muy Alta
+1,3,"Ayoub, Miss. Banoura",13.0,0,0,7.2292,False,False,False,2.1076888046179385,0,0,0,1,Miss,Adolescente,Baja
+1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",17.0,1,0,57.0,False,False,True,4.060443010546419,1,0,1,0,Mrs,Adolescente,Muy Alta
+0,1,"Long, Mr. Milton Clyde",29.0,0,0,30.0,True,False,True,3.4339872044851463,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Johnston, Mr. Andrew G",28.0,1,2,23.45,True,False,True,3.196630215920881,1,2,3,0,Mr,Adulto Joven,Alta
+0,3,"Ali, Mr. William",25.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Harmer, Mr. Abraham (David Lishin)",25.0,0,0,7.25,True,False,True,2.1102132003465894,0,0,0,1,Mr,Adulto Joven,Baja
+1,3,"Sjoblom, Miss. Anna Sofia",18.0,0,0,7.4958,False,False,True,2.139571923732859,0,0,0,1,Miss,Adolescente,Baja
+0,3,"Rice, Master. George Hugh",8.0,4,1,29.125,True,True,False,3.405355391810819,3,1,5,0,Master,Niño,Alta
+1,3,"Dean, Master. Bertram Vere",1.0,1,2,20.575,True,False,True,3.0715352369694915,1,2,3,0,Master,Niño,Alta
+0,1,"Guggenheim, Mr. Benjamin",46.0,0,0,79.2,True,False,False,4.384523514872469,0,0,0,1,Mr,Adulto,Muy Alta
+0,3,"Keane, Mr. Andrew ""Andy""",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Gaskell, Mr. Alfred",16.0,0,0,26.0,True,False,True,3.295836866004329,0,0,0,1,Mr,Adolescente,Alta
+0,3,"Sage, Miss. Stella Anna",28.0,8,2,69.55,False,False,True,4.256321678298823,3,2,10,0,Miss,Adulto Joven,Muy Alta
+0,1,"Hoyt, Mr. William Fisher",28.0,0,0,30.6958,True,False,False,3.4561841799918147,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Dantcheff, Mr. Ristiu",25.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Otter, Mr. Richard",39.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+1,1,"Leader, Dr. Alice (Farnham)",49.0,0,0,25.9292,False,False,True,3.2932111997353943,0,0,0,1,Rare,Adulto,Alta
+1,3,"Osman, Mrs. Mara",31.0,0,0,8.6833,False,False,True,2.270402752283094,0,0,0,1,Mrs,Adulto Joven,Media
+0,3,"Ibrahim Shawah, Mr. Yousseff",30.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",30.0,1,1,24.15,False,False,True,3.224857896545748,1,1,2,0,Mrs,Adulto Joven,Alta
+0,2,"Ponesell, Mr. Martin",34.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31.0,1,1,26.25,False,False,True,3.305053521109253,1,1,2,0,Mrs,Adulto Joven,Alta
+1,1,"Carter, Master. William Thornton II",11.0,1,2,120.0,True,False,True,4.795790545596741,1,2,3,0,Master,Niño,Muy Alta
+1,3,"Thomas, Master. Assad Alexander",0.42,0,1,8.5167,True,False,False,2.2530481500547457,0,1,1,0,Master,Niño,Media
+1,3,"Hedman, Mr. Oskar Arvid",27.0,0,0,6.975,True,False,True,2.076311648670908,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Johansson, Mr. Karl Johan",31.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Joven,Baja
+0,1,"Andrews, Mr. Thomas Jr",39.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto,Baja
+0,3,"Pettersson, Miss. Ellen Natalia",18.0,0,0,7.775,False,False,True,2.1719067693519296,0,0,0,1,Miss,Adolescente,Baja
+0,2,"Meyer, Mr. August",39.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto,Media
+1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33.0,1,0,53.1,False,False,True,3.9908341858524357,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Alexander, Mr. William",26.0,0,0,7.8875,True,False,True,2.184645795129359,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Lester, Mr. James",39.0,0,0,24.15,True,False,True,3.224857896545748,0,0,0,1,Mr,Adulto,Alta
+0,2,"Slemen, Mr. Richard James",35.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Andersson, Miss. Ebba Iris Alfrida",6.0,4,2,31.275,False,False,True,3.4742929367327062,3,2,6,0,Miss,Niño,Muy Alta
+0,3,"Tomlin, Mr. Ernest Portage",30.5,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Fry, Mr. Richard",28.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Heininen, Miss. Wendla Maria",23.0,0,0,7.925,False,False,True,2.188856327665703,0,0,0,1,Miss,Adulto Joven,Media
+0,2,"Mallet, Mr. Albert",31.0,1,1,37.0042,True,False,False,3.637696679934592,1,1,2,0,Mr,Adulto Joven,Muy Alta
+0,3,"Holm, Mr. John Fredrik Alexander",43.0,0,0,6.45,True,False,True,2.0082140323914683,0,0,0,1,Mr,Adulto,Baja
+0,3,"Skoog, Master. Karl Thorsten",10.0,3,2,27.9,True,False,True,3.3638415951183864,3,2,5,0,Master,Niño,Alta
+1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,1,1,93.5,False,False,True,4.548599834499697,1,1,2,0,Mrs,Adulto,Muy Alta
+1,3,"Lulic, Mr. Nikola",27.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adulto Joven,Media
+0,1,"Reuchlin, Jonkheer. John George",38.0,0,0,0.0,True,False,True,0.0,0,0,0,1,Rare,Adulto,Baja
+1,3,"Moor, Mrs. (Beila)",27.0,0,1,12.475,False,False,True,2.600836116795061,0,1,1,0,Mrs,Adulto Joven,Media
+0,3,"Panula, Master. Urho Abraham",2.0,4,1,39.6875,True,False,True,3.705920919968788,3,1,5,0,Master,Niño,Muy Alta
+0,3,"Flynn, Mr. John",28.0,0,0,6.95,True,True,False,2.0731719286662407,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Lam, Mr. Len",28.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,2,"Mallet, Master. Andre",1.0,0,2,37.0042,True,False,False,3.637696679934592,0,2,2,0,Master,Niño,Muy Alta
+1,3,"McCormack, Mr. Thomas Joseph",28.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",62.0,0,0,80.0,False,False,True,4.394449154672439,0,0,0,1,Mrs,Adulto Mayor,Muy Alta
+1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",15.0,1,0,14.4542,False,False,False,2.737880811060884,1,0,1,0,Mrs,Adolescente,Media
+1,2,"Richards, Master. George Sibley",0.83,1,1,18.75,True,False,True,2.9831534913471307,1,1,2,0,Master,Niño,Alta
+0,3,"Saad, Mr. Amin",28.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Augustsson, Mr. Albert",23.0,0,0,7.8542,True,False,True,2.180891922715322,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Allum, Mr. Owen George",18.0,0,0,8.3,True,False,True,2.2300144001592104,0,0,0,1,Mr,Adolescente,Media
+1,1,"Compton, Miss. Sara Rebecca",39.0,1,1,83.1583,False,False,False,4.432699549165613,1,1,2,0,Miss,Adulto,Muy Alta
+0,3,"Pasic, Mr. Jakob",21.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Sirota, Mr. Maurice",28.0,0,0,8.05,True,False,True,2.2027647577118348,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Chip, Mr. Chang",32.0,0,0,56.4958,True,False,True,4.05171190165724,0,0,0,1,Mr,Adulto Joven,Muy Alta
+1,1,"Marechal, Mr. Pierre",28.0,0,0,29.7,True,False,False,3.4242626545931514,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Alhomaki, Mr. Ilmari Rudolf",20.0,0,0,7.925,True,False,True,2.188856327665703,0,0,0,1,Mr,Adulto Joven,Media
+0,2,"Mudd, Mr. Thomas Charles",16.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adolescente,Media
+1,1,"Serepeca, Miss. Augusta",30.0,0,0,31.0,False,False,False,3.4657359027997265,0,0,0,1,Miss,Adulto Joven,Alta
+0,3,"Lemberopolous, Mr. Peter L",34.5,0,0,6.4375,True,False,False,2.006534770871748,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Culumovic, Mr. Jeso",17.0,0,0,8.6625,True,False,True,2.2682524139135403,0,0,0,1,Mr,Adolescente,Media
+0,3,"Abbing, Mr. Anthony",42.0,0,0,7.55,True,False,True,2.145931282948669,0,0,0,1,Mr,Adulto,Baja
+0,3,"Sage, Mr. Douglas Bullen",28.0,8,2,69.55,True,False,True,4.256321678298823,3,2,10,0,Mr,Adulto Joven,Muy Alta
+0,3,"Markoff, Mr. Marin",35.0,0,0,7.8958,True,False,False,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,2,"Harper, Rev. John",28.0,0,1,33.0,True,False,True,3.5263605246161616,0,1,1,0,Rare,Adulto Joven,Muy Alta
+1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",28.0,1,0,89.1042,False,False,False,4.500966778400217,1,0,1,0,Mrs,Adulto Joven,Muy Alta
+0,3,"Andersson, Master. Sigvard Harald Elias",4.0,4,2,31.275,True,False,True,3.4742929367327062,3,2,6,0,Master,Niño,Muy Alta
+0,3,"Svensson, Mr. Johan",74.0,0,0,7.775,True,False,True,2.1719067693519296,0,0,0,1,Mr,Adulto Mayor,Baja
+0,3,"Boulos, Miss. Nourelain",9.0,1,1,15.2458,False,False,False,2.7878344138303452,1,1,2,0,Miss,Niño,Alta
+1,1,"Lines, Miss. Mary Conover",16.0,0,1,39.4,False,False,True,3.6988297849671046,0,1,1,0,Miss,Adolescente,Muy Alta
+0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44.0,1,0,26.0,False,False,True,3.295836866004329,1,0,1,0,Mrs,Adulto,Alta
+1,3,"Aks, Mrs. Sam (Leah Rosen)",18.0,0,1,9.35,False,False,True,2.336986519711378,0,1,1,0,Mrs,Adolescente,Media
+1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",45.0,1,1,164.8667,False,False,True,5.11118445372147,1,1,2,0,Mrs,Adulto,Muy Alta
+1,1,"Daly, Mr. Peter Denis ",51.0,0,0,26.55,True,False,True,3.3160025355989236,0,0,0,1,Mr,Adulto,Alta
+1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",24.0,0,3,19.2583,False,False,False,3.0085645861193133,0,2,3,0,Mrs,Adulto Joven,Alta
+0,3,"Razi, Mr. Raihed",28.0,0,0,7.2292,True,False,False,2.1076888046179385,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Hansen, Mr. Claus Peter",41.0,2,0,14.1083,True,False,True,2.7152442616824506,2,0,2,0,Mr,Adulto,Media
+0,2,"Giles, Mr. Frederick Edward",21.0,1,0,11.5,True,False,True,2.5257286443082556,1,0,1,0,Mr,Adulto Joven,Media
+1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48.0,0,0,25.9292,False,False,True,3.2932111997353943,0,0,0,1,Mrs,Adulto,Alta
+0,3,"Sage, Miss. Dorothy Edith ""Dolly""",28.0,8,2,69.55,False,False,True,4.256321678298823,3,2,10,0,Miss,Adulto Joven,Muy Alta
+0,2,"Gill, Mr. John William",24.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Mr,Adulto Joven,Media
+1,2,"Bystrom, Mrs. (Karolina)",42.0,0,0,13.0,False,False,True,2.6390573296152584,0,0,0,1,Mrs,Adulto,Media
+1,2,"Duran y More, Miss. Asuncion",27.0,1,0,13.8583,False,False,False,2.698558631668595,1,0,1,0,Miss,Adulto Joven,Media
+0,1,"Roebling, Mr. Washington Augustus II",31.0,0,0,50.4958,True,False,True,3.941500250945973,0,0,0,1,Mr,Adulto Joven,Muy Alta
+0,3,"van Melkebeke, Mr. Philemon",28.0,0,0,9.5,True,False,True,2.3513752571634776,0,0,0,1,Mr,Adulto Joven,Media
+1,3,"Johnson, Master. Harold Theodor",4.0,1,1,11.1333,True,False,True,2.495953738718064,1,1,2,0,Master,Niño,Media
+0,3,"Balkic, Mr. Cerin",26.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47.0,1,1,52.5542,False,False,True,3.9806942251907276,1,1,2,0,Mrs,Adulto,Muy Alta
+0,1,"Carlsson, Mr. Frans Olof",33.0,0,0,5.0,True,False,True,1.791759469228055,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Vander Cruyssen, Mr. Victor",47.0,0,0,9.0,True,False,True,2.302585092994046,0,0,0,1,Mr,Adulto,Media
+1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",28.0,1,0,24.0,False,False,False,3.2188758248682006,1,0,1,0,Mrs,Adulto Joven,Alta
+1,3,"Najib, Miss. Adele Kiamie ""Jane""",15.0,0,0,7.225,False,False,False,2.1071782966514356,0,0,0,1,Miss,Adolescente,Baja
+0,3,"Gustafsson, Mr. Alfred Ossian",20.0,0,0,9.8458,True,False,True,2.3837779082709782,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Petroff, Mr. Nedelio",19.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Laleff, Mr. Kristo",28.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56.0,0,1,83.1583,False,False,False,4.432699549165613,0,1,1,0,Mrs,Adulto,Muy Alta
+1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",25.0,0,1,26.0,False,False,True,3.295836866004329,0,1,1,0,Mrs,Adulto Joven,Alta
+0,3,"Markun, Mr. Johann",33.0,0,0,7.8958,True,False,True,2.1855792552411137,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Dahlberg, Miss. Gerda Ulrika",22.0,0,0,10.5167,False,False,True,2.4437981558973862,0,0,0,1,Miss,Adulto Joven,Media
+0,2,"Banfield, Mr. Frederick James",28.0,0,0,10.5,True,False,True,2.4423470353692043,0,0,0,1,Mr,Adulto Joven,Media
+0,3,"Sutehall, Mr. Henry Jr",25.0,0,0,7.05,True,False,True,2.0856720914304723,0,0,0,1,Mr,Adulto Joven,Baja
+0,3,"Rice, Mrs. William (Margaret Norton)",39.0,0,5,29.125,False,True,False,3.405355391810819,0,2,5,0,Mrs,Adulto,Alta
+0,2,"Montvila, Rev. Juozas",27.0,0,0,13.0,True,False,True,2.6390573296152584,0,0,0,1,Rare,Adulto Joven,Media
+1,1,"Graham, Miss. Margaret Edith",19.0,0,0,30.0,False,False,True,3.4339872044851463,0,0,0,1,Miss,Adulto Joven,Alta
+0,3,"Johnston, Miss. Catherine Helen ""Carrie""",28.0,1,2,23.45,False,False,True,3.196630215920881,1,2,3,0,Miss,Adulto Joven,Alta
+1,1,"Behr, Mr. Karl Howell",26.0,0,0,30.0,True,False,False,3.4339872044851463,0,0,0,1,Mr,Adulto Joven,Alta
+0,3,"Dooley, Mr. Patrick",32.0,0,0,7.75,True,True,False,2.169053700369523,0,0,0,1,Mr,Adulto Joven,Baja
